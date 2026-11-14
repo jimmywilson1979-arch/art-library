@@ -523,6 +523,104 @@
    ]
   },
   {
+   "title": "Mystery game",
+   "folder": "mystery",
+   "items": [
+    {
+     "name": "Wooden detective table",
+     "file": "mystery/background.jpg"
+    },
+    {
+     "name": "Birthday cake",
+     "file": "mystery/extra-cake.png"
+    },
+    {
+     "name": "Card back",
+     "file": "mystery/extra-cardback.jpg"
+    },
+    {
+     "name": "Key",
+     "file": "mystery/extra-key.png"
+    },
+    {
+     "name": "Magnifying glass",
+     "file": "mystery/extra-mag.png"
+    },
+    {
+     "name": "Chopsticks",
+     "file": "mystery/item-chopsticks.png"
+    },
+    {
+     "name": "Toy digger",
+     "file": "mystery/item-digger.png"
+    },
+    {
+     "name": "Fork",
+     "file": "mystery/item-fork.png"
+    },
+    {
+     "name": "A hand",
+     "file": "mystery/item-hand.png"
+    },
+    {
+     "name": "Ice-cream scoop",
+     "file": "mystery/item-scoop.png"
+    },
+    {
+     "name": "Big spoon",
+     "file": "mystery/item-spoon.png"
+    },
+    {
+     "name": "Bedroom",
+     "file": "mystery/room-bedroom.jpg"
+    },
+    {
+     "name": "Garden",
+     "file": "mystery/room-garden.jpg"
+    },
+    {
+     "name": "Hallway",
+     "file": "mystery/room-hallway.jpg"
+    },
+    {
+     "name": "Kitchen",
+     "file": "mystery/room-kitchen.jpg"
+    },
+    {
+     "name": "Lounge",
+     "file": "mystery/room-lounge.jpg"
+    },
+    {
+     "name": "Study",
+     "file": "mystery/room-study.jpg"
+    },
+    {
+     "name": "Uncle Bob",
+     "file": "mystery/suspect-bob.jpg"
+    },
+    {
+     "name": "Grandma Rose",
+     "file": "mystery/suspect-grandma.jpg"
+    },
+    {
+     "name": "Cousin Max",
+     "file": "mystery/suspect-max.jpg"
+    },
+    {
+     "name": "Rex the Dog",
+     "file": "mystery/suspect-rex.jpg"
+    },
+    {
+     "name": "Aunt Sue",
+     "file": "mystery/suspect-sue.jpg"
+    },
+    {
+     "name": "Mr Whiskers the cat",
+     "file": "mystery/suspect-whiskers.jpg"
+    }
+   ]
+  },
+  {
    "title": "Flags",
    "folder": "flags",
    "items": [
