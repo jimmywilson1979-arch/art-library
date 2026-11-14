@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0b1020">
+<title>Art Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@600;700&family=Nunito:wght@700;800&display=swap">
+<style>
+:root { --bg:#0b1020; --card:#151b33; --line:#2a3460; --ink:#eef2ff; --mut:#93a0c8; --acc:#6c8cff; --good:#51e08a; }
+* { box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+body { margin:0; background:var(--bg); background-image:radial-gradient(circle at 50% -20%,#22306a 0%,rgba(11,16,32,0) 60%); background-attachment:fixed; color:var(--ink); font:700 16px/1.35 Nunito,system-ui,sans-serif; }
+.wrap { max-width:1100px; margin:0 auto; padding:calc(16px + env(safe-area-inset-top)) 14px 40px; }
+h1 { font:700 34px Fredoka,sans-serif; margin:6px 0 2px; } h2 { font:700 22px Fredoka,sans-serif; margin:26px 0 10px; }
+.sub { color:var(--mut); margin:0 0 14px; }
+.bar { position:sticky; top:0; z-index:5; background:rgba(11,16,32,.92); backdrop-filter:blur(8px); padding:10px 0; display:flex; flex-direction:column; gap:8px; }
+input { width:100%; padding:12px 14px; border-radius:14px; border:2px solid var(--line); background:#0e1430; color:var(--ink); font:800 16px Nunito; outline:none; }
+input:focus { border-color:var(--acc); }
+.tabs { display:flex; gap:6px; overflow-x:auto; padding-bottom:2px; }
+.tabs button { flex:none; border:1px solid var(--line); background:var(--card); color:var(--mut); border-radius:99px; padding:7px 13px; font:800 14px Nunito; }
+.tabs button.on { background:var(--acc); color:#fff; border-color:var(--acc); }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:10px; }
+.it { background:var(--card); border:1px solid var(--line); border-radius:14px; overflow:hidden; cursor:pointer; padding:0; color:inherit; text-align:left; font:inherit; }
+.it .im { aspect-ratio:5/4; background:#1d2547 center/cover no-repeat; }
+.it.flag .im { background-size:70%; background-color:#e9eef9; }
+.it span { display:block; padding:7px 9px; font-size:14px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.count { color:var(--mut); font-size:14px; font-weight:700; margin-left:6px; }
+.orig { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:10px; }
+.orig a { display:block; border-radius:12px; overflow:hidden; border:1px solid var(--line); background:var(--card); color:var(--ink); text-decoration:none; }
+.orig img { width:100%; display:block; } .orig span { display:block; padding:7px 10px; font-size:14px; }
+.lb { position:fixed; inset:0; background:rgba(5,8,20,.94); z-index:20; display:none; flex-direction:column; align-items:center; justify-content:center; padding:20px; gap:12px; }
+.lb.on { display:flex; } .lb img { max-width:100%; max-height:62vh; border-radius:14px; box-shadow:0 10px 40px rgba(0,0,0,.6); background:#fff; }
+.lb h3 { margin:0; font:700 24px Fredoka; } .lb code { font-size:12px; color:var(--mut); word-break:break-all; text-align:center; max-width:560px; }
+.lb .row { display:flex; gap:8px; flex-wrap:wrap; justify-content:center; }
+.lb button, .lb a.b { border:0; border-radius:12px; padding:11px 16px; font:800 15px Nunito; background:var(--card); color:var(--ink); text-decoration:none; border:1px solid var(--line); }
+.lb button.go { background:var(--good); color:#06281a; border-color:var(--good); }
+.toast { position:fixed; left:50%; bottom:24px; transform:translateX(-50%); background:#26305e; padding:10px 16px; border-radius:12px; z-index:30; }
+footer { color:var(--mut); font-size:13px; margin-top:30px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🎨 Art Library</h1>
+  <p class="sub">Storybook pictures made in Gemini for Head to Head, ready to reuse in any project. Tap a picture to copy its link.</p>
+  <div class="bar"><input id="q" placeholder="Search, e.g. whale, dragon, Saturn…" autocomplete="off"><div class="tabs" id="tabs"></div></div>
+  <div id="out"></div>
+  <h2>Gemini originals <span class="count">full-size sheets</span></h2>
+  <div class="orig" id="orig"></div>
+  <footer>Flags from flag-icons (MIT licence). Pictures made with Google Gemini, November 2026. Each picture's link: <code>https://jimmywilson1979-arch.github.io/art-library/&lt;file&gt;</code> · everything listed in <a href="library.json" style="color:var(--acc)">library.json</a></footer>
+</div>
+<div class="lb" id="lb">
+  <img id="lbimg" alt="">
+  <h3 id="lbname"></h3>
+  <code id="lburl"></code>
+  <div class="row"><button class="go" id="copy">📋 Copy link</button><a class="b" id="dl" download>⬇️ Download</a><button id="close">Close</button></div>
+</div>
+<script>
+const BASE = location.origin + location.pathname.replace(/index\.html$/, "");
+let LIB = null, tab = "All", q = "";
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+function toast(t) { const d = document.createElement("div"); d.className = "toast"; d.textContent = t; document.body.appendChild(d); setTimeout(() => d.remove(), 1800); }
+function render() {
+  const tabs = ["All", ...LIB.collections.map(c => c.title)];
+  document.getElementById("tabs").innerHTML = tabs.map(t => `<button class="${t === tab ? "on" : ""}" data-tab="${esc(t)}">${esc(t)}</button>`).join("");
+  const s = q.trim().toLowerCase();
+  document.getElementById("out").innerHTML = LIB.collections.filter(c => tab === "All" || c.title === tab).map(c => {
+    const items = c.items.filter(i => !s || i.name.toLowerCase().includes(s));
+    if (!items.length) return "";
+    return `<h2>${esc(c.title)}<span class="count">${items.length}</span></h2><div class="grid">${items.map(i => `<button class="it ${c.folder === "flags" ? "flag" : ""}" data-file="${esc(i.file)}" data-name="${esc(i.name)}"><div class="im" style="background-image:url('${esc(i.file)}')" loading="lazy"></div><span>${esc(i.name)}</span></button>`).join("")}</div>`;
+  }).join("") || `<p class="sub">Nothing matches “${esc(q)}”.</p>`;
+}
+function open(file, name) {
+  const url = BASE + file;
+  document.getElementById("lbimg").src = file; document.getElementById("lbname").textContent = name;
+  document.getElementById("lburl").textContent = url; const dl = document.getElementById("dl"); dl.href = file; dl.setAttribute("download", file.split("/").pop());
+  document.getElementById("lb").classList.add("on");
+}
+document.addEventListener("click", e => {
+  const t = e.target.closest("[data-tab]"); if (t) { tab = t.dataset.tab; render(); return; }
+  const it = e.target.closest("[data-file]"); if (it) { open(it.dataset.file, it.dataset.name); return; }
+  if (e.target.id === "close" || e.target.id === "lb") document.getElementById("lb").classList.remove("on");
+  if (e.target.id === "copy") { const u = document.getElementById("lburl").textContent; (navigator.clipboard ? navigator.clipboard.writeText(u) : Promise.reject()).then(() => toast("Link copied"), () => toast(u)); }
+});
+document.getElementById("q").addEventListener("input", e => { q = e.target.value; render(); });
+fetch("library.json").then(r => r.json()).then(j => {
+  LIB = j; render();
+  document.getElementById("orig").innerHTML = j.originals.map(f => `<a href="${esc(f)}" target="_blank"><img src="${esc(f)}" loading="lazy" alt=""><span>${esc(f.split("/").pop().replace(/\.jpg$/, "").replace(/-/g, " "))}</span></a>`).join("");
+});
+</script>
+</body>
+</html>

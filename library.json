@@ -1,0 +1,666 @@
+{
+ "made": "November 2026",
+ "style": "Storybook illustration, warm hand-painted gouache and watercolour (Gemini app)",
+ "collections": [
+  {
+   "title": "Animals & sea life",
+   "folder": "cards/nature",
+   "items": [
+    {
+     "name": "African elephant",
+     "file": "cards/nature/african-elephant.webp"
+    },
+    {
+     "name": "Blue whale",
+     "file": "cards/nature/blue-whale.webp"
+    },
+    {
+     "name": "Bluefin tuna",
+     "file": "cards/nature/bluefin-tuna.webp"
+    },
+    {
+     "name": "Bottlenose dolphin",
+     "file": "cards/nature/bottlenose-dolphin.webp"
+    },
+    {
+     "name": "Brown hare",
+     "file": "cards/nature/brown-hare.webp"
+    },
+    {
+     "name": "Cheetah",
+     "file": "cards/nature/cheetah.webp"
+    },
+    {
+     "name": "Chimpanzee",
+     "file": "cards/nature/chimpanzee.webp"
+    },
+    {
+     "name": "Clownfish",
+     "file": "cards/nature/clownfish.webp"
+    },
+    {
+     "name": "Elephant seal",
+     "file": "cards/nature/elephant-seal.webp"
+    },
+    {
+     "name": "Emperor penguin",
+     "file": "cards/nature/emperor-penguin.webp"
+    },
+    {
+     "name": "Gentoo penguin",
+     "file": "cards/nature/gentoo-penguin.webp"
+    },
+    {
+     "name": "Giant octopus",
+     "file": "cards/nature/giant-octopus.webp"
+    },
+    {
+     "name": "Giant panda",
+     "file": "cards/nature/giant-panda.webp"
+    },
+    {
+     "name": "Giant squid",
+     "file": "cards/nature/giant-squid.webp"
+    },
+    {
+     "name": "Giant tortoise",
+     "file": "cards/nature/giant-tortoise.webp"
+    },
+    {
+     "name": "Giraffe",
+     "file": "cards/nature/giraffe.webp"
+    },
+    {
+     "name": "Golden eagle",
+     "file": "cards/nature/golden-eagle.webp"
+    },
+    {
+     "name": "Gorilla",
+     "file": "cards/nature/gorilla.webp"
+    },
+    {
+     "name": "Great white shark",
+     "file": "cards/nature/great-white-shark.webp"
+    },
+    {
+     "name": "Grey wolf",
+     "file": "cards/nature/grey-wolf.webp"
+    },
+    {
+     "name": "Grizzly bear",
+     "file": "cards/nature/grizzly-bear.webp"
+    },
+    {
+     "name": "Hammerhead shark",
+     "file": "cards/nature/hammerhead-shark.webp"
+    },
+    {
+     "name": "Hedgehog",
+     "file": "cards/nature/hedgehog.webp"
+    },
+    {
+     "name": "Hippo",
+     "file": "cards/nature/hippo.webp"
+    },
+    {
+     "name": "Horse",
+     "file": "cards/nature/horse.webp"
+    },
+    {
+     "name": "Humpback whale",
+     "file": "cards/nature/humpback-whale.webp"
+    },
+    {
+     "name": "Japanese spider crab",
+     "file": "cards/nature/japanese-spider-crab.webp"
+    },
+    {
+     "name": "King cobra",
+     "file": "cards/nature/king-cobra.webp"
+    },
+    {
+     "name": "Koala",
+     "file": "cards/nature/koala.webp"
+    },
+    {
+     "name": "Leatherback turtle",
+     "file": "cards/nature/leatherback-turtle.webp"
+    },
+    {
+     "name": "Lion",
+     "file": "cards/nature/lion.webp"
+    },
+    {
+     "name": "Lobster",
+     "file": "cards/nature/lobster.webp"
+    },
+    {
+     "name": "Mantis shrimp",
+     "file": "cards/nature/mantis-shrimp.webp"
+    },
+    {
+     "name": "Orca",
+     "file": "cards/nature/orca.webp"
+    },
+    {
+     "name": "Polar bear",
+     "file": "cards/nature/polar-bear.webp"
+    },
+    {
+     "name": "Pufferfish",
+     "file": "cards/nature/pufferfish.webp"
+    },
+    {
+     "name": "Red fox",
+     "file": "cards/nature/red-fox.webp"
+    },
+    {
+     "name": "Red kangaroo",
+     "file": "cards/nature/red-kangaroo.webp"
+    },
+    {
+     "name": "Sailfish",
+     "file": "cards/nature/sailfish.webp"
+    },
+    {
+     "name": "Saltwater crocodile",
+     "file": "cards/nature/saltwater-crocodile.webp"
+    },
+    {
+     "name": "Scarlet macaw",
+     "file": "cards/nature/scarlet-macaw.webp"
+    },
+    {
+     "name": "Sea otter",
+     "file": "cards/nature/sea-otter.webp"
+    },
+    {
+     "name": "Shortfin mako",
+     "file": "cards/nature/shortfin-mako.webp"
+    },
+    {
+     "name": "Sloth",
+     "file": "cards/nature/sloth.webp"
+    },
+    {
+     "name": "Sperm whale",
+     "file": "cards/nature/sperm-whale.webp"
+    },
+    {
+     "name": "Swordfish",
+     "file": "cards/nature/swordfish.webp"
+    },
+    {
+     "name": "Tiger",
+     "file": "cards/nature/tiger.webp"
+    },
+    {
+     "name": "Whale shark",
+     "file": "cards/nature/whale-shark.webp"
+    },
+    {
+     "name": "White rhino",
+     "file": "cards/nature/white-rhino.webp"
+    },
+    {
+     "name": "Zebra",
+     "file": "cards/nature/zebra.webp"
+    }
+   ]
+  },
+  {
+   "title": "Dinosaurs",
+   "folder": "cards/dinosaurs",
+   "items": [
+    {
+     "name": "Allosaurus",
+     "file": "cards/dinosaurs/allosaurus.webp"
+    },
+    {
+     "name": "Ankylosaurus",
+     "file": "cards/dinosaurs/ankylosaurus.webp"
+    },
+    {
+     "name": "Apatosaurus",
+     "file": "cards/dinosaurs/apatosaurus.webp"
+    },
+    {
+     "name": "Argentinosaurus",
+     "file": "cards/dinosaurs/argentinosaurus.webp"
+    },
+    {
+     "name": "Baryonyx",
+     "file": "cards/dinosaurs/baryonyx.webp"
+    },
+    {
+     "name": "Brachiosaurus",
+     "file": "cards/dinosaurs/brachiosaurus.webp"
+    },
+    {
+     "name": "Carnotaurus",
+     "file": "cards/dinosaurs/carnotaurus.webp"
+    },
+    {
+     "name": "Compsognathus",
+     "file": "cards/dinosaurs/compsognathus.webp"
+    },
+    {
+     "name": "Deinonychus",
+     "file": "cards/dinosaurs/deinonychus.webp"
+    },
+    {
+     "name": "Dilophosaurus",
+     "file": "cards/dinosaurs/dilophosaurus.webp"
+    },
+    {
+     "name": "Diplodocus",
+     "file": "cards/dinosaurs/diplodocus.webp"
+    },
+    {
+     "name": "Edmontosaurus",
+     "file": "cards/dinosaurs/edmontosaurus.webp"
+    },
+    {
+     "name": "Gallimimus",
+     "file": "cards/dinosaurs/gallimimus.webp"
+    },
+    {
+     "name": "Giganotosaurus",
+     "file": "cards/dinosaurs/giganotosaurus.webp"
+    },
+    {
+     "name": "Iguanodon",
+     "file": "cards/dinosaurs/iguanodon.webp"
+    },
+    {
+     "name": "Microraptor",
+     "file": "cards/dinosaurs/microraptor.webp"
+    },
+    {
+     "name": "Pachycephalosaurus",
+     "file": "cards/dinosaurs/pachycephalosaurus.webp"
+    },
+    {
+     "name": "Parasaurolophus",
+     "file": "cards/dinosaurs/parasaurolophus.webp"
+    },
+    {
+     "name": "Spinosaurus",
+     "file": "cards/dinosaurs/spinosaurus.webp"
+    },
+    {
+     "name": "Stegosaurus",
+     "file": "cards/dinosaurs/stegosaurus.webp"
+    },
+    {
+     "name": "Triceratops",
+     "file": "cards/dinosaurs/triceratops.webp"
+    },
+    {
+     "name": "Tyrannosaurus rex",
+     "file": "cards/dinosaurs/tyrannosaurus-rex.webp"
+    },
+    {
+     "name": "Utahraptor",
+     "file": "cards/dinosaurs/utahraptor.webp"
+    },
+    {
+     "name": "Velociraptor",
+     "file": "cards/dinosaurs/velociraptor.webp"
+    }
+   ]
+  },
+  {
+   "title": "Space",
+   "folder": "cards/space",
+   "items": [
+    {
+     "name": "Callisto",
+     "file": "cards/space/callisto.webp"
+    },
+    {
+     "name": "Ceres",
+     "file": "cards/space/ceres.webp"
+    },
+    {
+     "name": "Charon",
+     "file": "cards/space/charon.webp"
+    },
+    {
+     "name": "Earth",
+     "file": "cards/space/earth.webp"
+    },
+    {
+     "name": "Enceladus",
+     "file": "cards/space/enceladus.webp"
+    },
+    {
+     "name": "Eris",
+     "file": "cards/space/eris.webp"
+    },
+    {
+     "name": "Europa",
+     "file": "cards/space/europa.webp"
+    },
+    {
+     "name": "Ganymede",
+     "file": "cards/space/ganymede.webp"
+    },
+    {
+     "name": "Haumea",
+     "file": "cards/space/haumea.webp"
+    },
+    {
+     "name": "Io",
+     "file": "cards/space/io.webp"
+    },
+    {
+     "name": "Jupiter",
+     "file": "cards/space/jupiter.webp"
+    },
+    {
+     "name": "Makemake",
+     "file": "cards/space/makemake.webp"
+    },
+    {
+     "name": "Mars",
+     "file": "cards/space/mars.webp"
+    },
+    {
+     "name": "Mercury",
+     "file": "cards/space/mercury.webp"
+    },
+    {
+     "name": "Neptune",
+     "file": "cards/space/neptune.webp"
+    },
+    {
+     "name": "Phobos",
+     "file": "cards/space/phobos.webp"
+    },
+    {
+     "name": "Pluto",
+     "file": "cards/space/pluto.webp"
+    },
+    {
+     "name": "Saturn",
+     "file": "cards/space/saturn.webp"
+    },
+    {
+     "name": "The moon",
+     "file": "cards/space/the-moon.webp"
+    },
+    {
+     "name": "The sun",
+     "file": "cards/space/the-sun.webp"
+    },
+    {
+     "name": "Titan",
+     "file": "cards/space/titan.webp"
+    },
+    {
+     "name": "Triton",
+     "file": "cards/space/triton.webp"
+    },
+    {
+     "name": "Uranus",
+     "file": "cards/space/uranus.webp"
+    },
+    {
+     "name": "Venus",
+     "file": "cards/space/venus.webp"
+    }
+   ]
+  },
+  {
+   "title": "Christmas",
+   "folder": "cards/christmas",
+   "items": [
+    {
+     "name": "Angel",
+     "file": "cards/christmas/angel.webp"
+    },
+    {
+     "name": "Bells",
+     "file": "cards/christmas/bells.webp"
+    },
+    {
+     "name": "Blitzen",
+     "file": "cards/christmas/blitzen.webp"
+    },
+    {
+     "name": "Brussels sprout",
+     "file": "cards/christmas/brussels-sprout.webp"
+    },
+    {
+     "name": "Candle",
+     "file": "cards/christmas/candle.webp"
+    },
+    {
+     "name": "Candy cane",
+     "file": "cards/christmas/candy-cane.webp"
+    },
+    {
+     "name": "Christmas pudding",
+     "file": "cards/christmas/christmas-pudding.webp"
+    },
+    {
+     "name": "Christmas tree",
+     "file": "cards/christmas/christmas-tree.webp"
+    },
+    {
+     "name": "Comet",
+     "file": "cards/christmas/comet.webp"
+    },
+    {
+     "name": "Cracker",
+     "file": "cards/christmas/cracker.webp"
+    },
+    {
+     "name": "Dasher",
+     "file": "cards/christmas/dasher.webp"
+    },
+    {
+     "name": "Father christmas",
+     "file": "cards/christmas/father-christmas.webp"
+    },
+    {
+     "name": "Gingerbread man",
+     "file": "cards/christmas/gingerbread-man.webp"
+    },
+    {
+     "name": "Head elf",
+     "file": "cards/christmas/head-elf.webp"
+    },
+    {
+     "name": "Mince pie",
+     "file": "cards/christmas/mince-pie.webp"
+    },
+    {
+     "name": "Mrs claus",
+     "file": "cards/christmas/mrs-claus.webp"
+    },
+    {
+     "name": "Penguin",
+     "file": "cards/christmas/penguin.webp"
+    },
+    {
+     "name": "Polar bear",
+     "file": "cards/christmas/polar-bear.webp"
+    },
+    {
+     "name": "Present",
+     "file": "cards/christmas/present.webp"
+    },
+    {
+     "name": "Robin",
+     "file": "cards/christmas/robin.webp"
+    },
+    {
+     "name": "Sleigh",
+     "file": "cards/christmas/sleigh.webp"
+    },
+    {
+     "name": "Snowflake",
+     "file": "cards/christmas/snowflake.webp"
+    },
+    {
+     "name": "Snowman",
+     "file": "cards/christmas/snowman.webp"
+    },
+    {
+     "name": "Star on top",
+     "file": "cards/christmas/star-on-top.webp"
+    },
+    {
+     "name": "Stocking",
+     "file": "cards/christmas/stocking.webp"
+    },
+    {
+     "name": "Turkey",
+     "file": "cards/christmas/turkey.webp"
+    }
+   ]
+  },
+  {
+   "title": "Flags",
+   "folder": "flags",
+   "items": [
+    {
+     "name": "Argentina",
+     "file": "flags/ar.svg"
+    },
+    {
+     "name": "Australia",
+     "file": "flags/au.svg"
+    },
+    {
+     "name": "Brazil",
+     "file": "flags/br.svg"
+    },
+    {
+     "name": "Canada",
+     "file": "flags/ca.svg"
+    },
+    {
+     "name": "China",
+     "file": "flags/cn.svg"
+    },
+    {
+     "name": "Egypt",
+     "file": "flags/eg.svg"
+    },
+    {
+     "name": "England",
+     "file": "flags/gb-eng.svg"
+    },
+    {
+     "name": "France",
+     "file": "flags/fr.svg"
+    },
+    {
+     "name": "Germany",
+     "file": "flags/de.svg"
+    },
+    {
+     "name": "Greece",
+     "file": "flags/gr.svg"
+    },
+    {
+     "name": "Iceland",
+     "file": "flags/is.svg"
+    },
+    {
+     "name": "India",
+     "file": "flags/in.svg"
+    },
+    {
+     "name": "Ireland",
+     "file": "flags/ie.svg"
+    },
+    {
+     "name": "Italy",
+     "file": "flags/it.svg"
+    },
+    {
+     "name": "Jamaica",
+     "file": "flags/jm.svg"
+    },
+    {
+     "name": "Japan",
+     "file": "flags/jp.svg"
+    },
+    {
+     "name": "Kenya",
+     "file": "flags/ke.svg"
+    },
+    {
+     "name": "Mexico",
+     "file": "flags/mx.svg"
+    },
+    {
+     "name": "Nepal",
+     "file": "flags/np.svg"
+    },
+    {
+     "name": "Netherlands",
+     "file": "flags/nl.svg"
+    },
+    {
+     "name": "New Zealand",
+     "file": "flags/nz.svg"
+    },
+    {
+     "name": "Norway",
+     "file": "flags/no.svg"
+    },
+    {
+     "name": "Russia",
+     "file": "flags/ru.svg"
+    },
+    {
+     "name": "Scotland",
+     "file": "flags/gb-sct.svg"
+    },
+    {
+     "name": "South Africa",
+     "file": "flags/za.svg"
+    },
+    {
+     "name": "Spain",
+     "file": "flags/es.svg"
+    },
+    {
+     "name": "Switzerland",
+     "file": "flags/ch.svg"
+    },
+    {
+     "name": "USA",
+     "file": "flags/us.svg"
+    },
+    {
+     "name": "Vatican City",
+     "file": "flags/va.svg"
+    },
+    {
+     "name": "Wales",
+     "file": "flags/gb-wls.svg"
+    }
+   ]
+  }
+ ],
+ "originals": [
+  "originals/animals-1.jpg",
+  "originals/animals-2.jpg",
+  "originals/animals-3.jpg",
+  "originals/christmas-1.jpg",
+  "originals/christmas-2.jpg",
+  "originals/christmas-3.jpg",
+  "originals/dinosaurs-1.jpg",
+  "originals/dinosaurs-2.jpg",
+  "originals/sea-life-1.jpg",
+  "originals/sea-life-2.jpg",
+  "originals/space-1.jpg",
+  "originals/space-2.jpg"
+ ]
+}
