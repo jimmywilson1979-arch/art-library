@@ -901,6 +901,22 @@
     {
      "name": "Explorer",
      "file": "roll-on/island/explorer.webp"
+    },
+    {
+     "name": "Captain (token)",
+     "file": "roll-on/island/token-captain.webp"
+    },
+    {
+     "name": "Lookout (token)",
+     "file": "roll-on/island/token-lookout.webp"
+    },
+    {
+     "name": "Ship's Doctor (token)",
+     "file": "roll-on/island/token-ships-doctor.webp"
+    },
+    {
+     "name": "Explorer (token)",
+     "file": "roll-on/island/token-explorer.webp"
     }
    ]
   },
