@@ -2149,6 +2149,60 @@
      "file": "buzz-in/frames/space.webp"
     }
    ]
+  },
+  {
+   "title": "Advent calendar",
+   "folder": "twenty-four-doors",
+   "items": [
+    {
+     "name": "Advent background: Classic",
+     "file": "twenty-four-doors/bg-classic.webp"
+    },
+    {
+     "name": "Advent background: Nordic",
+     "file": "twenty-four-doors/bg-nordic.webp"
+    },
+    {
+     "name": "Advent background: Bright",
+     "file": "twenty-four-doors/bg-bright.webp"
+    },
+    {
+     "name": "Advent background: Champagne",
+     "file": "twenty-four-doors/bg-champagne.webp"
+    },
+    {
+     "name": "Advent door: red wreath",
+     "file": "twenty-four-doors/door-red-wreath.webp"
+    },
+    {
+     "name": "Advent door: green snowflakes",
+     "file": "twenty-four-doors/door-green-snowflakes.webp"
+    },
+    {
+     "name": "Advent door: blue stars",
+     "file": "twenty-four-doors/door-blue-stars.webp"
+    },
+    {
+     "name": "Advent door: gold ribbon",
+     "file": "twenty-four-doors/door-gold-ribbon.webp"
+    },
+    {
+     "name": "Advent door: wooden cabin",
+     "file": "twenty-four-doors/door-wooden-cabin.webp"
+    },
+    {
+     "name": "Advent door: nordic heart",
+     "file": "twenty-four-doors/door-nordic-heart.webp"
+    },
+    {
+     "name": "Advent door: candy cane",
+     "file": "twenty-four-doors/door-candy-cane.webp"
+    },
+    {
+     "name": "Advent door: purple bauble",
+     "file": "twenty-four-doors/door-purple-bauble.webp"
+    }
+   ]
   }
  ],
  "originals": [
@@ -2172,6 +2226,8 @@
   "originals/island-2.jpg",
   "originals/buzz-in-rounds-1.jpg",
   "originals/buzz-in-rounds-2.jpg",
-  "originals/picture-frames.jpg"
+  "originals/picture-frames.jpg",
+  "originals/advent-doors.jpg",
+  "originals/advent-backgrounds.jpg"
  ]
 }
