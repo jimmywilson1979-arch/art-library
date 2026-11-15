@@ -20,6 +20,7 @@ Pictures made for my projects, kept in one place so any app can use them.
 | `buzz-in/rounds/` | 24 quiz round title cards for Buzz In (pictures round the edges, plain middle for the round name) |
 | `buzz-in/frames/` | 8 picture frames with see-through middles (gold, wooden, crayon, Christmas, silver, seaside, jungle, space) as WebP and PNG. Each middle is exactly 3:4; `frames.json` gives where it sits (left/top/right/bottom as a share of the frame's width) |
 | `twenty-four-doors/` | 4 tall phone backgrounds (snowy village, birch forest, toy town, town square) and 8 painted advent door fronts with blank plaques, for Twenty-Four Doors |
+| `who-is-it/` | 24 friendly head-and-shoulders portraits on a cream background, all different (hair colour and style, glasses, hats, beards, earrings), made for Who Is It? in Head to Head |
 | `flags/` | every country's flag (271, incl. Wales, England, Scotland, EU, UN), square versions in `flags/square/`, names and capitals in `flags/flags.json` (flag-icons, MIT licence) |
 | `originals/` | the full-size Gemini sheets, exactly as made |
 | `library.json` | a list of every picture with its name and file, for apps to read |

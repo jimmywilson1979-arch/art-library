@@ -2581,6 +2581,108 @@
      "file": "twenty-four-doors/door-purple-bauble.webp"
     }
    ]
+  },
+  {
+   "title": "Who Is It? faces",
+   "folder": "who-is-it",
+   "items": [
+    {
+     "name": "Alfie (portrait)",
+     "file": "who-is-it/alfie.webp"
+    },
+    {
+     "name": "Bella (portrait)",
+     "file": "who-is-it/bella.webp"
+    },
+    {
+     "name": "Carys (portrait)",
+     "file": "who-is-it/carys.webp"
+    },
+    {
+     "name": "Dai (portrait)",
+     "file": "who-is-it/dai.webp"
+    },
+    {
+     "name": "Ella (portrait)",
+     "file": "who-is-it/ella.webp"
+    },
+    {
+     "name": "Finn (portrait)",
+     "file": "who-is-it/finn.webp"
+    },
+    {
+     "name": "Gwen (portrait)",
+     "file": "who-is-it/gwen.webp"
+    },
+    {
+     "name": "Hassan (portrait)",
+     "file": "who-is-it/hassan.webp"
+    },
+    {
+     "name": "Isla (portrait)",
+     "file": "who-is-it/isla.webp"
+    },
+    {
+     "name": "Jack (portrait)",
+     "file": "who-is-it/jack.webp"
+    },
+    {
+     "name": "Kemi (portrait)",
+     "file": "who-is-it/kemi.webp"
+    },
+    {
+     "name": "Leo (portrait)",
+     "file": "who-is-it/leo.webp"
+    },
+    {
+     "name": "Maya (portrait)",
+     "file": "who-is-it/maya.webp"
+    },
+    {
+     "name": "Mo (portrait)",
+     "file": "who-is-it/mo.webp"
+    },
+    {
+     "name": "Nia (portrait)",
+     "file": "who-is-it/nia.webp"
+    },
+    {
+     "name": "Owen (portrait)",
+     "file": "who-is-it/owen.webp"
+    },
+    {
+     "name": "Priya (portrait)",
+     "file": "who-is-it/priya.webp"
+    },
+    {
+     "name": "Rhys (portrait)",
+     "file": "who-is-it/rhys.webp"
+    },
+    {
+     "name": "Sophie (portrait)",
+     "file": "who-is-it/sophie.webp"
+    },
+    {
+     "name": "Theo (portrait)",
+     "file": "who-is-it/theo.webp"
+    },
+    {
+     "name": "Uma (portrait)",
+     "file": "who-is-it/uma.webp"
+    },
+    {
+     "name": "Vic (portrait)",
+     "file": "who-is-it/vic.webp"
+    },
+    {
+     "name": "Will (portrait)",
+     "file": "who-is-it/will.webp"
+    },
+    {
+     "name": "Zara (portrait)",
+     "file": "who-is-it/zara.webp"
+    }
+   ]
   }
  ],
  "originals": [
@@ -2614,6 +2716,8 @@
   "originals/save-christmas-1.jpg",
   "originals/save-christmas-2.jpg",
   "originals/dragons-mountain-1.jpg",
-  "originals/dragons-mountain-2.jpg"
+  "originals/dragons-mountain-2.jpg",
+  "originals/who-is-it-1.jpg",
+  "originals/who-is-it-2.jpg"
  ]
 }
