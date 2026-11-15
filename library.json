@@ -2009,6 +2009,108 @@
      "file": "flags/zw.svg"
     }
    ]
+  },
+  {
+   "title": "Quiz round cards",
+   "folder": "buzz-in/rounds",
+   "items": [
+    {
+     "name": "General Knowledge (round card)",
+     "file": "buzz-in/rounds/general-knowledge.webp"
+    },
+    {
+     "name": "Kids' Corner (round card)",
+     "file": "buzz-in/rounds/kids-corner.webp"
+    },
+    {
+     "name": "Name That Tune (round card)",
+     "file": "buzz-in/rounds/name-that-tune.webp"
+    },
+    {
+     "name": "Emoji Films (round card)",
+     "file": "buzz-in/rounds/emoji-films.webp"
+    },
+    {
+     "name": "Famous Lines (round card)",
+     "file": "buzz-in/rounds/famous-lines.webp"
+    },
+    {
+     "name": "True or False (round card)",
+     "file": "buzz-in/rounds/true-or-false.webp"
+    },
+    {
+     "name": "Higher or Lower (round card)",
+     "file": "buzz-in/rounds/higher-or-lower.webp"
+    },
+    {
+     "name": "Odd One Out (round card)",
+     "file": "buzz-in/rounds/odd-one-out.webp"
+    },
+    {
+     "name": "Closest Wins (round card)",
+     "file": "buzz-in/rounds/closest-wins.webp"
+    },
+    {
+     "name": "Telly and Films (round card)",
+     "file": "buzz-in/rounds/telly-and-films.webp"
+    },
+    {
+     "name": "Music (round card)",
+     "file": "buzz-in/rounds/music.webp"
+    },
+    {
+     "name": "Sport (round card)",
+     "file": "buzz-in/rounds/sport.webp"
+    },
+    {
+     "name": "Food and Drink (round card)",
+     "file": "buzz-in/rounds/food-and-drink.webp"
+    },
+    {
+     "name": "Buzzer Round (round card)",
+     "file": "buzz-in/rounds/buzzer-round.webp"
+    },
+    {
+     "name": "Anything Round (round card)",
+     "file": "buzz-in/rounds/anything-round.webp"
+    },
+    {
+     "name": "Family Round (round card)",
+     "file": "buzz-in/rounds/family-round.webp"
+    },
+    {
+     "name": "Animal Antics (round card)",
+     "file": "buzz-in/rounds/animal-antics.webp"
+    },
+    {
+     "name": "Nursery Rhyme Tunes (round card)",
+     "file": "buzz-in/rounds/nursery-rhyme-tunes.webp"
+    },
+    {
+     "name": "Cartoon Emojis (round card)",
+     "file": "buzz-in/rounds/cartoon-emojis.webp"
+    },
+    {
+     "name": "Bigger or Smaller (round card)",
+     "file": "buzz-in/rounds/bigger-or-smaller.webp"
+    },
+    {
+     "name": "Christmas Cracker (round card)",
+     "file": "buzz-in/rounds/christmas-cracker.webp"
+    },
+    {
+     "name": "Festive Films (round card)",
+     "file": "buzz-in/rounds/festive-films.webp"
+    },
+    {
+     "name": "Carol Tunes (round card)",
+     "file": "buzz-in/rounds/carol-tunes.webp"
+    },
+    {
+     "name": "Christmas by Numbers (round card)",
+     "file": "buzz-in/rounds/christmas-by-numbers.webp"
+    }
+   ]
   }
  ],
  "originals": [
@@ -2029,6 +2131,8 @@
   "originals/kingdom-3.jpg",
   "originals/kingdom-tokens.jpg",
   "originals/island-1.jpg",
-  "originals/island-2.jpg"
+  "originals/island-2.jpg",
+  "originals/buzz-in-rounds-1.jpg",
+  "originals/buzz-in-rounds-2.jpg"
  ]
 }
