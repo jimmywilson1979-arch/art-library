@@ -13,6 +13,7 @@ Pictures made for my projects, kept in one place so any app can use them.
 | `cards/christmas/` | 26 festive pictures |
 | `mystery/` | 23 pictures from the "Who ate the cake?" mystery game: rooms, suspects, objects, table |
 | `roll-on/kingdom/` | 36 fantasy kingdom places and objects (villages, castles, Dragon's Rest, crystal ball, quest scroll, treasure) plus 8 round player tokens (dragon, unicorn, wizard, crown, shield, bow, fairy, horse), made for Roll On |
+| `roll-on/northpole/` | 36 North Pole places and objects (Snowdrift Lane to Santa's Grotto, sleigh stops, Christmas Eve, the Naughty Corner, cracker, elf scroll, elf hut, chocolate coins) plus 8 round player pieces (Santa, snowman, reindeer, elf, penguin, present, gingerbread, bell), made for Roll On |
 | `roll-on/island/` | 24 desert-island pictures for Treasure Island: beach, jungle, lagoon, shipwreck, chests, parrot, map piece, quicksand, snakes, cave, rockfall, lookout tower, the X, the storm, and four heroes (captain, lookout, ship's doctor, explorer with a monkey) |
 | `buzz-in/rounds/` | 24 quiz round title cards for Buzz In (pictures round the edges, plain middle for the round name) |
 | `buzz-in/frames/` | 8 picture frames with see-through middles (gold, wooden, crayon, Christmas, silver, seaside, jungle, space) as WebP and PNG. Each middle is exactly 3:4; `frames.json` gives where it sits (left/top/right/bottom as a share of the frame's width) |
