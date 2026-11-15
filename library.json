@@ -803,6 +803,108 @@
    ]
   },
   {
+   "title": "Treasure island",
+   "folder": "roll-on/island",
+   "items": [
+    {
+     "name": "Base Camp",
+     "file": "roll-on/island/base-camp.webp"
+    },
+    {
+     "name": "Palm Grove",
+     "file": "roll-on/island/palm-grove.webp"
+    },
+    {
+     "name": "Sandy Beach",
+     "file": "roll-on/island/sandy-beach.webp"
+    },
+    {
+     "name": "Jungle Path",
+     "file": "roll-on/island/jungle-path.webp"
+    },
+    {
+     "name": "Coconut Grove",
+     "file": "roll-on/island/coconut-grove.webp"
+    },
+    {
+     "name": "Lagoon",
+     "file": "roll-on/island/lagoon.webp"
+    },
+    {
+     "name": "Rock Pools",
+     "file": "roll-on/island/rock-pools.webp"
+    },
+    {
+     "name": "Shipwreck",
+     "file": "roll-on/island/shipwreck.webp"
+    },
+    {
+     "name": "Supply Crate",
+     "file": "roll-on/island/supply-crate.webp"
+    },
+    {
+     "name": "Old Chest",
+     "file": "roll-on/island/old-chest.webp"
+    },
+    {
+     "name": "Pirate Cache",
+     "file": "roll-on/island/pirate-cache.webp"
+    },
+    {
+     "name": "Parrot Puzzle",
+     "file": "roll-on/island/parrot-puzzle.webp"
+    },
+    {
+     "name": "Map Piece",
+     "file": "roll-on/island/map-piece.webp"
+    },
+    {
+     "name": "Quicksand",
+     "file": "roll-on/island/quicksand.webp"
+    },
+    {
+     "name": "Snake Pit",
+     "file": "roll-on/island/snake-pit.webp"
+    },
+    {
+     "name": "Dark Cave",
+     "file": "roll-on/island/dark-cave.webp"
+    },
+    {
+     "name": "Rockfall",
+     "file": "roll-on/island/rockfall.webp"
+    },
+    {
+     "name": "Lookout Tower",
+     "file": "roll-on/island/lookout-tower.webp"
+    },
+    {
+     "name": "Strange Marks",
+     "file": "roll-on/island/strange-marks.webp"
+    },
+    {
+     "name": "Storm",
+     "file": "roll-on/island/storm.webp"
+    },
+    {
+     "name": "Captain",
+     "file": "roll-on/island/captain.webp"
+    },
+    {
+     "name": "Lookout",
+     "file": "roll-on/island/lookout.webp"
+    },
+    {
+     "name": "Ship's Doctor",
+     "file": "roll-on/island/ships-doctor.webp"
+    },
+    {
+     "name": "Explorer",
+     "file": "roll-on/island/explorer.webp"
+    }
+   ]
+  },
+  {
    "title": "Flags",
    "folder": "flags",
    "items": [
@@ -1909,6 +2011,8 @@
   "originals/kingdom-1.jpg",
   "originals/kingdom-2.jpg",
   "originals/kingdom-3.jpg",
-  "originals/kingdom-tokens.jpg"
+  "originals/kingdom-tokens.jpg",
+  "originals/island-1.jpg",
+  "originals/island-2.jpg"
  ]
 }
