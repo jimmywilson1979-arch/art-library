@@ -2111,6 +2111,44 @@
      "file": "buzz-in/rounds/christmas-by-numbers.webp"
     }
    ]
+  },
+  {
+   "title": "Picture frames",
+   "folder": "buzz-in/frames",
+   "items": [
+    {
+     "name": "Ornate gold frame",
+     "file": "buzz-in/frames/gold.webp"
+    },
+    {
+     "name": "Rustic wooden frame",
+     "file": "buzz-in/frames/wooden.webp"
+    },
+    {
+     "name": "Crayon frame",
+     "file": "buzz-in/frames/crayon.webp"
+    },
+    {
+     "name": "Christmas holly frame",
+     "file": "buzz-in/frames/christmas.webp"
+    },
+    {
+     "name": "Silver pearl frame",
+     "file": "buzz-in/frames/silver.webp"
+    },
+    {
+     "name": "Seaside shell frame",
+     "file": "buzz-in/frames/seaside.webp"
+    },
+    {
+     "name": "Jungle leaf frame",
+     "file": "buzz-in/frames/jungle.webp"
+    },
+    {
+     "name": "Space frame",
+     "file": "buzz-in/frames/space.webp"
+    }
+   ]
   }
  ],
  "originals": [
@@ -2133,6 +2171,7 @@
   "originals/island-1.jpg",
   "originals/island-2.jpg",
   "originals/buzz-in-rounds-1.jpg",
-  "originals/buzz-in-rounds-2.jpg"
+  "originals/buzz-in-rounds-2.jpg",
+  "originals/picture-frames.jpg"
  ]
 }

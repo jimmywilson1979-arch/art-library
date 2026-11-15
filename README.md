@@ -15,6 +15,7 @@ Pictures made for my projects, kept in one place so any app can use them.
 | `roll-on/kingdom/` | 36 fantasy kingdom places and objects (villages, castles, Dragon's Rest, crystal ball, quest scroll, treasure) plus 8 round player tokens (dragon, unicorn, wizard, crown, shield, bow, fairy, horse), made for Roll On |
 | `roll-on/island/` | 24 desert-island pictures for Treasure Island: beach, jungle, lagoon, shipwreck, chests, parrot, map piece, quicksand, snakes, cave, rockfall, lookout tower, the X, the storm, and four heroes (captain, lookout, ship's doctor, explorer with a monkey) |
 | `buzz-in/rounds/` | 24 quiz round title cards for Buzz In (pictures round the edges, plain middle for the round name) |
+| `buzz-in/frames/` | 8 picture frames with see-through middles (gold, wooden, crayon, Christmas, silver, seaside, jungle, space) as WebP and PNG. Each middle is exactly 3:4; `frames.json` gives where it sits (left/top/right/bottom as a share of the frame's width) |
 | `flags/` | every country's flag (271, incl. Wales, England, Scotland, EU, UN), square versions in `flags/square/`, names and capitals in `flags/flags.json` (flag-icons, MIT licence) |
 | `originals/` | the full-size Gemini sheets, exactly as made |
 | `library.json` | a list of every picture with its name and file, for apps to read |
