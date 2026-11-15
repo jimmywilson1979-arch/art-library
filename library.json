@@ -1197,6 +1197,108 @@
    ]
   },
   {
+   "title": "Dragon's Mountain",
+   "folder": "roll-on/dragon",
+   "items": [
+    {
+     "name": "Dragon waking",
+     "file": "roll-on/dragon/dragon-waking.webp"
+    },
+    {
+     "name": "Giant web",
+     "file": "roll-on/dragon/giant-web.webp"
+    },
+    {
+     "name": "Goblin cave",
+     "file": "roll-on/dragon/goblin-cave.webp"
+    },
+    {
+     "name": "Healer",
+     "file": "roll-on/dragon/healer.webp"
+    },
+    {
+     "name": "Hermits hut",
+     "file": "roll-on/dragon/hermits-hut.webp"
+    },
+    {
+     "name": "High peak",
+     "file": "roll-on/dragon/high-peak.webp"
+    },
+    {
+     "name": "Knight",
+     "file": "roll-on/dragon/knight.webp"
+    },
+    {
+     "name": "Mountain path",
+     "file": "roll-on/dragon/mountain-path.webp"
+    },
+    {
+     "name": "Pine forest",
+     "file": "roll-on/dragon/pine-forest.webp"
+    },
+    {
+     "name": "Ranger",
+     "file": "roll-on/dragon/ranger.webp"
+    },
+    {
+     "name": "Riddle stone",
+     "file": "roll-on/dragon/riddle-stone.webp"
+    },
+    {
+     "name": "Rockslide",
+     "file": "roll-on/dragon/rockslide.webp"
+    },
+    {
+     "name": "Ruins",
+     "file": "roll-on/dragon/ruins.webp"
+    },
+    {
+     "name": "Rune stone",
+     "file": "roll-on/dragon/rune-stone.webp"
+    },
+    {
+     "name": "Scorched rocks",
+     "file": "roll-on/dragon/scorched-rocks.webp"
+    },
+    {
+     "name": "Stream",
+     "file": "roll-on/dragon/stream.webp"
+    },
+    {
+     "name": "Travellers pack",
+     "file": "roll-on/dragon/travellers-pack.webp"
+    },
+    {
+     "name": "Treasure nook",
+     "file": "roll-on/dragon/treasure-nook.webp"
+    },
+    {
+     "name": "Wizard",
+     "file": "roll-on/dragon/wizard.webp"
+    },
+    {
+     "name": "Wolf den",
+     "file": "roll-on/dragon/wolf-den.webp"
+    },
+    {
+     "name": "Healer (token)",
+     "file": "roll-on/dragon/token-healer.webp"
+    },
+    {
+     "name": "Knight (token)",
+     "file": "roll-on/dragon/token-knight.webp"
+    },
+    {
+     "name": "Ranger (token)",
+     "file": "roll-on/dragon/token-ranger.webp"
+    },
+    {
+     "name": "Wizard (token)",
+     "file": "roll-on/dragon/token-wizard.webp"
+    }
+   ]
+  },
+  {
    "title": "Flags",
    "folder": "flags",
    "items": [
@@ -2510,6 +2612,8 @@
   "originals/northpole-3.jpg",
   "originals/northpole-tokens.jpg",
   "originals/save-christmas-1.jpg",
-  "originals/save-christmas-2.jpg"
+  "originals/save-christmas-2.jpg",
+  "originals/dragons-mountain-1.jpg",
+  "originals/dragons-mountain-2.jpg"
  ]
 }
