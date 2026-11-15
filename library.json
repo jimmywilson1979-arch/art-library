@@ -1103,6 +1103,100 @@
    ]
   },
   {
+   "title": "Save Christmas",
+   "folder": "roll-on/xmas",
+   "items": [
+    {
+     "name": "Avalanche",
+     "file": "roll-on/xmas/avalanche.webp"
+    },
+    {
+     "name": "Deep snow",
+     "file": "roll-on/xmas/deep-snow.webp"
+    },
+    {
+     "name": "Elf puzzle",
+     "file": "roll-on/xmas/elf-puzzle.webp"
+    },
+    {
+     "name": "Elf store",
+     "file": "roll-on/xmas/elf-store.webp"
+    },
+    {
+     "name": "Head elf",
+     "file": "roll-on/xmas/head-elf.webp"
+    },
+    {
+     "name": "Ice cave",
+     "file": "roll-on/xmas/ice-cave.webp"
+    },
+    {
+     "name": "Igloo",
+     "file": "roll-on/xmas/igloo.webp"
+    },
+    {
+     "name": "Lighthouse",
+     "file": "roll-on/xmas/lighthouse.webp"
+    },
+    {
+     "name": "Midnight clock",
+     "file": "roll-on/xmas/midnight-clock.webp"
+    },
+    {
+     "name": "Mrs claus",
+     "file": "roll-on/xmas/mrs-claus.webp"
+    },
+    {
+     "name": "Polar bear",
+     "file": "roll-on/xmas/polar-bear.webp"
+    },
+    {
+     "name": "Present sack",
+     "file": "roll-on/xmas/present-sack.webp"
+    },
+    {
+     "name": "Reindeer",
+     "file": "roll-on/xmas/reindeer.webp"
+    },
+    {
+     "name": "Santas sleigh",
+     "file": "roll-on/xmas/santas-sleigh.webp"
+    },
+    {
+     "name": "Santas workshop",
+     "file": "roll-on/xmas/santas-workshop.webp"
+    },
+    {
+     "name": "Sleigh tracks",
+     "file": "roll-on/xmas/sleigh-tracks.webp"
+    },
+    {
+     "name": "Snowfield",
+     "file": "roll-on/xmas/snowfield.webp"
+    },
+    {
+     "name": "Star gazer",
+     "file": "roll-on/xmas/star-gazer.webp"
+    },
+    {
+     "name": "Head elf (token)",
+     "file": "roll-on/xmas/token-head-elf.webp"
+    },
+    {
+     "name": "Mrs claus (token)",
+     "file": "roll-on/xmas/token-mrs-claus.webp"
+    },
+    {
+     "name": "Reindeer (token)",
+     "file": "roll-on/xmas/token-reindeer.webp"
+    },
+    {
+     "name": "Star gazer (token)",
+     "file": "roll-on/xmas/token-star-gazer.webp"
+    }
+   ]
+  },
+  {
    "title": "Flags",
    "folder": "flags",
    "items": [
@@ -2414,6 +2508,8 @@
   "originals/northpole-1.jpg",
   "originals/northpole-2.jpg",
   "originals/northpole-3.jpg",
-  "originals/northpole-tokens.jpg"
+  "originals/northpole-tokens.jpg",
+  "originals/save-christmas-1.jpg",
+  "originals/save-christmas-2.jpg"
  ]
 }
