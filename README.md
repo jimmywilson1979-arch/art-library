@@ -12,7 +12,7 @@ Pictures made for my projects, kept in one place so any app can use them.
 | `cards/space/` | the Sun, planets, dwarf planets and moons |
 | `cards/christmas/` | 26 festive pictures |
 | `mystery/` | 23 pictures from the "Who ate the cake?" mystery game: rooms, suspects, objects, table |
-| `flags/` | 30 country flags incl. Wales, England, Scotland (flag-icons, MIT licence) |
+| `flags/` | every country's flag (271, incl. Wales, England, Scotland, EU, UN), square versions in `flags/square/`, names and capitals in `flags/flags.json` (flag-icons, MIT licence) |
 | `originals/` | the full-size Gemini sheets, exactly as made |
 | `library.json` | a list of every picture with its name and file, for apps to read |
 
