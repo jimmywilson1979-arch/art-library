@@ -12,6 +12,7 @@ Pictures made for my projects, kept in one place so any app can use them.
 | `cards/space/` | the Sun, planets, dwarf planets and moons |
 | `cards/christmas/` | 26 festive pictures |
 | `mystery/` | 23 pictures from the "Who ate the cake?" mystery game: rooms, suspects, objects, table |
+| `roll-on/kingdom/` | 36 fantasy kingdom places and objects (villages, castles, Dragon's Rest, crystal ball, quest scroll, treasure) plus 8 round player tokens (dragon, unicorn, wizard, crown, shield, bow, fairy, horse), made for Roll On |
 | `flags/` | every country's flag (271, incl. Wales, England, Scotland, EU, UN), square versions in `flags/square/`, names and capitals in `flags/flags.json` (flag-icons, MIT licence) |
 | `originals/` | the full-size Gemini sheets, exactly as made |
 | `library.json` | a list of every picture with its name and file, for apps to read |
@@ -26,4 +27,4 @@ Made in the free Gemini app. Ask for a **4 × 3 grid of 12 tiles** with thin whi
 
 > Storybook illustration for a children's picture book: warm hand-painted gouache and watercolour look, soft lighting, rich but gentle colours, the subject shown whole and centred with a simple painted background. Same style in every tile. No text, no letters, no numbers, no labels.
 
-Then send the sheet to Claude to cut up and add here.
+Then send the sheet to Claude to cut up and add here. If Gemini writes names on the tiles anyway, Claude crops them off. Landscape scenes are cropped to about 3:2 (640 × 465).
