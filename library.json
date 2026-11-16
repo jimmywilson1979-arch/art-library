@@ -2691,6 +2691,22 @@
     {
      "name": "Robot on the office desk (concept)",
      "file": "robot/desk-concept.webp"
+    },
+    {
+     "name": "Robot close-up, thinking face (concept)",
+     "file": "robot/thinking-closeup.webp"
+    },
+    {
+     "name": "Robot on wheels in the living room (concept)",
+     "file": "robot/living-room.webp"
+    },
+    {
+     "name": "Robot parked on its charging dock (concept)",
+     "file": "robot/charging-dock.webp"
+    },
+    {
+     "name": "Robot exploded view of parts (concept)",
+     "file": "robot/exploded-view.webp"
     }
    ]
   }
@@ -2729,6 +2745,10 @@
   "originals/dragons-mountain-2.jpg",
   "originals/who-is-it-1.jpg",
   "originals/who-is-it-2.jpg",
-  "originals/robot-desk-concept.jpg"
+  "originals/robot-desk-concept.jpg",
+  "originals/robot-thinking-closeup.jpg",
+  "originals/robot-living-room.jpg",
+  "originals/robot-charging-dock.jpg",
+  "originals/robot-exploded-view.jpg"
  ]
 }
