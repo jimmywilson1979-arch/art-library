@@ -2683,6 +2683,16 @@
      "file": "who-is-it/zara.webp"
     }
    ]
+  },
+  {
+   "title": "Claude robot concepts",
+   "folder": "robot",
+   "items": [
+    {
+     "name": "Robot on the office desk (concept)",
+     "file": "robot/desk-concept.webp"
+    }
+   ]
   }
  ],
  "originals": [
@@ -2718,6 +2728,7 @@
   "originals/dragons-mountain-1.jpg",
   "originals/dragons-mountain-2.jpg",
   "originals/who-is-it-1.jpg",
-  "originals/who-is-it-2.jpg"
+  "originals/who-is-it-2.jpg",
+  "originals/robot-desk-concept.jpg"
  ]
 }
