@@ -2779,6 +2779,72 @@
      "file": "pip/pip-game-sheet.png"
     }
    ]
+  },
+  {
+   "title": "Pip enemies (Gloop, Buzzbot, Clanker)",
+   "folder": "pip/enemies",
+   "items": [
+    {
+     "name": "Gloop walk 1 (see-through background)",
+     "file": "pip/enemies/gloop-walk-1.webp"
+    },
+    {
+     "name": "Gloop walk 2 (see-through background)",
+     "file": "pip/enemies/gloop-walk-2.webp"
+    },
+    {
+     "name": "Gloop squashed (see-through background)",
+     "file": "pip/enemies/gloop-squashed.webp"
+    },
+    {
+     "name": "Gloop jump (see-through background)",
+     "file": "pip/enemies/gloop-jump.webp"
+    },
+    {
+     "name": "Buzzbot fly 1 (see-through background)",
+     "file": "pip/enemies/buzzbot-fly-1.webp"
+    },
+    {
+     "name": "Buzzbot fly 2 (see-through background)",
+     "file": "pip/enemies/buzzbot-fly-2.webp"
+    },
+    {
+     "name": "Buzzbot dive (see-through background)",
+     "file": "pip/enemies/buzzbot-dive.webp"
+    },
+    {
+     "name": "Buzzbot dizzy (see-through background)",
+     "file": "pip/enemies/buzzbot-dizzy.webp"
+    },
+    {
+     "name": "Clanker walk 1 (see-through background)",
+     "file": "pip/enemies/clanker-walk-1.webp"
+    },
+    {
+     "name": "Clanker walk 2 (see-through background)",
+     "file": "pip/enemies/clanker-walk-2.webp"
+    },
+    {
+     "name": "Clanker shell (see-through background)",
+     "file": "pip/enemies/clanker-shell.webp"
+    },
+    {
+     "name": "Clanker flipped (see-through background)",
+     "file": "pip/enemies/clanker-flipped.webp"
+    },
+    {
+     "name": "Gloop game sprite sheet",
+     "file": "pip/enemies/gloop-game-sheet.png"
+    },
+    {
+     "name": "Buzz game sprite sheet",
+     "file": "pip/enemies/buzz-game-sheet.png"
+    },
+    {
+     "name": "Clank game sprite sheet",
+     "file": "pip/enemies/clank-game-sheet.png"
+    }
+   ]
   }
  ],
  "originals": [
@@ -2822,6 +2888,7 @@
   "originals/robot-exploded-view.jpg",
   "originals/pip-concepts-cheeky.jpg",
   "originals/pip-sprite-sheet-gemini.jpg",
-  "originals/pip-run-cycle-gemini.jpg"
+  "originals/pip-run-cycle-gemini.jpg",
+  "originals/pip-enemies-gemini.jpg"
  ]
 }
