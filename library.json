@@ -2781,7 +2781,7 @@
    ]
   },
   {
-   "title": "Pip enemies (Gloop, Buzzbot, Clanker)",
+   "title": "Pip enemies (Gloop, Buzzbot, Clanker, Captain Clank)",
    "folder": "pip/enemies",
    "items": [
     {
@@ -2859,6 +2859,26 @@
     {
      "name": "Clank game sprite sheet",
      "file": "pip/enemies/clank-game-sheet.png"
+    },
+    {
+     "name": "Captain Clank (pirate crab boss) stand (see-through background)",
+     "file": "pip/enemies/captain-clank-stand.webp"
+    },
+    {
+     "name": "Captain Clank (pirate crab boss) claws up (see-through background)",
+     "file": "pip/enemies/captain-clank-claws-up.webp"
+    },
+    {
+     "name": "Captain Clank (pirate crab boss) throw (see-through background)",
+     "file": "pip/enemies/captain-clank-throw.webp"
+    },
+    {
+     "name": "Captain Clank (pirate crab boss) dizzy (see-through background)",
+     "file": "pip/enemies/captain-clank-dizzy.webp"
+    },
+    {
+     "name": "Captain Clank – game sprite sheet (4 frames)",
+     "file": "pip/enemies/captain-clank-game-sheet.png"
     }
    ]
   },
@@ -2927,6 +2947,64 @@
      "file": "pip/world/tiles-48px.png"
     }
    ]
+  },
+  {
+   "title": "Pip World 2 – Sandy Shores",
+   "folder": "pip/world2",
+   "items": [
+    {
+     "name": "Barrel (see-through background)",
+     "file": "pip/world2/barrel.webp"
+    },
+    {
+     "name": "Sand ground strip (see-through background)",
+     "file": "pip/world2/sand-ground.webp"
+    },
+    {
+     "name": "Wooden pier plank (see-through background)",
+     "file": "pip/world2/pier-plank.webp"
+    },
+    {
+     "name": "Palm tree (see-through background)",
+     "file": "pip/world2/palm-tree.webp"
+    },
+    {
+     "name": "Seagull flap 1 (see-through background)",
+     "file": "pip/world2/seagull-1.webp"
+    },
+    {
+     "name": "Seagull flap 2 (see-through background)",
+     "file": "pip/world2/seagull-2.webp"
+    },
+    {
+     "name": "Spiky sea urchin (see-through background)",
+     "file": "pip/world2/sea-urchin.webp"
+    },
+    {
+     "name": "Jellyfish (see-through background)",
+     "file": "pip/world2/jellyfish.webp"
+    },
+    {
+     "name": "Rocket boots power-up (see-through background)",
+     "file": "pip/world2/rocket-boots.webp"
+    },
+    {
+     "name": "Battery magnet power-up (see-through background)",
+     "file": "pip/world2/battery-magnet.webp"
+    },
+    {
+     "name": "Speed boost power-up (see-through background)",
+     "file": "pip/world2/speed-boost.webp"
+    },
+    {
+     "name": "Pip diving helmet (see-through background)",
+     "file": "pip/world2/diver-helmet.webp"
+    },
+    {
+     "name": "Seaside background (sky, sea, lighthouse)",
+     "file": "pip/world2/seaside-background.jpg"
+    }
+   ]
   }
  ],
  "originals": [
@@ -2976,6 +3054,9 @@
   "originals/pip-sky-gemini.jpg",
   "originals/pip-hills-gemini.jpg",
   "originals/pip-tiles-gemini.jpg",
-  "originals/pip-gloop-ooze-gemini.jpg"
+  "originals/pip-gloop-ooze-gemini.jpg",
+  "originals/pip-world2-items-gemini.jpg",
+  "originals/pip-captain-clank-gemini.jpg",
+  "originals/pip-seaside-bg-gemini.jpg"
  ]
 }
