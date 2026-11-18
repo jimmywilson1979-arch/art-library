@@ -2845,6 +2845,72 @@
      "file": "pip/enemies/clank-game-sheet.png"
     }
    ]
+  },
+  {
+   "title": "Pip world: items, blocks, tiles and backgrounds",
+   "folder": "pip/world",
+   "items": [
+    {
+     "name": "Battery (see-through background)",
+     "file": "pip/world/battery.webp"
+    },
+    {
+     "name": "Golden battery (see-through background)",
+     "file": "pip/world/golden-battery.webp"
+    },
+    {
+     "name": "Shield orb (see-through background)",
+     "file": "pip/world/shield-orb.webp"
+    },
+    {
+     "name": "Heart (see-through background)",
+     "file": "pip/world/heart.webp"
+    },
+    {
+     "name": "Lightning block (see-through background)",
+     "file": "pip/world/lightning-block.webp"
+    },
+    {
+     "name": "Used block (see-through background)",
+     "file": "pip/world/used-block.webp"
+    },
+    {
+     "name": "Brick block (see-through background)",
+     "file": "pip/world/brick-block.webp"
+    },
+    {
+     "name": "Spring (see-through background)",
+     "file": "pip/world/spring.webp"
+    },
+    {
+     "name": "Checkpoint flag grey (see-through background)",
+     "file": "pip/world/checkpoint-flag-grey.webp"
+    },
+    {
+     "name": "Checkpoint flag green (see-through background)",
+     "file": "pip/world/checkpoint-flag-green.webp"
+    },
+    {
+     "name": "Finish star pole (see-through background)",
+     "file": "pip/world/finish-star-pole.webp"
+    },
+    {
+     "name": "Moving platform (see-through background)",
+     "file": "pip/world/moving-platform.webp"
+    },
+    {
+     "name": "Sunny sky with clouds (16:9 background)",
+     "file": "pip/world/sky-background.webp"
+    },
+    {
+     "name": "Rolling hills strip, repeats seamlessly (see-through top)",
+     "file": "pip/world/hills-strip-seamless.webp"
+    },
+    {
+     "name": "Game tiles 48px: grass, dirt, brick, lightning block, used block, plank, stone",
+     "file": "pip/world/tiles-48px.png"
+    }
+   ]
   }
  ],
  "originals": [
@@ -2889,6 +2955,10 @@
   "originals/pip-concepts-cheeky.jpg",
   "originals/pip-sprite-sheet-gemini.jpg",
   "originals/pip-run-cycle-gemini.jpg",
-  "originals/pip-enemies-gemini.jpg"
+  "originals/pip-enemies-gemini.jpg",
+  "originals/pip-items-gemini.jpg",
+  "originals/pip-sky-gemini.jpg",
+  "originals/pip-hills-gemini.jpg",
+  "originals/pip-tiles-gemini.jpg"
  ]
 }

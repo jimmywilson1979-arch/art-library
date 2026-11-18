@@ -24,6 +24,7 @@ Pictures made for my projects, kept in one place so any app can use them.
 | `robot/` | concept pictures of the Claude home robot (phone head on a charcoal-and-gold body), photo-style, made to show what the finished product could look like |
 | `pip/` | Pip, the red robot hero of the platformer game (bold outlined cartoon style): a hero picture, 12 separate poses with see-through backgrounds in `pip/poses/` (idle, blink, land, happy, run 1–6, jump, spin, hurt, tumble), and the game-ready sprite sheet `pip-game-sheet.png` with its `.json` |
 | `pip/enemies/` | Pip's enemies in the same style: Gloop (purple slime), Buzzbot (flying robot bug), Clanker (wind-up tin crab), 4 poses each with see-through backgrounds, plus game-ready sheets |
+| `pip/world/` | Pip's world: batteries, golden battery, shield orb, heart, blocks, spring, checkpoint flags, finish star, moving platform (see-through), the sunny sky, a seamless hills strip, and 48px game tiles (`game-*.png` are the in-game sizes) |
 | `flags/` | every country's flag (271, incl. Wales, England, Scotland, EU, UN), square versions in `flags/square/`, names and capitals in `flags/flags.json` (flag-icons, MIT licence) |
 | `originals/` | the full-size Gemini sheets, exactly as made |
 | `library.json` | a list of every picture with its name and file, for apps to read |
