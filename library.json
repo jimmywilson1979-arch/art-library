@@ -2751,6 +2751,14 @@
      "file": "pip/poses/pip-run-4.webp"
     },
     {
+     "name": "Pip – run 5 pose (see-through background)",
+     "file": "pip/poses/pip-run-5.webp"
+    },
+    {
+     "name": "Pip – run 6 pose (see-through background)",
+     "file": "pip/poses/pip-run-6.webp"
+    },
+    {
      "name": "Pip – jump pose (see-through background)",
      "file": "pip/poses/pip-jump.webp"
     },
@@ -2767,7 +2775,7 @@
      "file": "pip/poses/pip-tumble.webp"
     },
     {
-     "name": "Pip – game sprite sheet (12 frames, used in the platformer)",
+     "name": "Pip – game sprite sheet (14 frames, used in the platformer)",
      "file": "pip/pip-game-sheet.png"
     }
    ]
@@ -2813,6 +2821,7 @@
   "originals/robot-charging-dock.jpg",
   "originals/robot-exploded-view.jpg",
   "originals/pip-concepts-cheeky.jpg",
-  "originals/pip-sprite-sheet-gemini.jpg"
+  "originals/pip-sprite-sheet-gemini.jpg",
+  "originals/pip-run-cycle-gemini.jpg"
  ]
 }

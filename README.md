@@ -22,7 +22,7 @@ Pictures made for my projects, kept in one place so any app can use them.
 | `twenty-four-doors/` | 4 tall phone backgrounds (snowy village, birch forest, toy town, town square) and 8 painted advent door fronts with blank plaques, for Twenty-Four Doors |
 | `who-is-it/` | 24 friendly head-and-shoulders portraits on a cream background, all different (hair colour and style, glasses, hats, beards, earrings), made for Who Is It? in Head to Head |
 | `robot/` | concept pictures of the Claude home robot (phone head on a charcoal-and-gold body), photo-style, made to show what the finished product could look like |
-| `pip/` | Pip, the red robot hero of the platformer game (bold outlined cartoon style): a hero picture, 12 separate poses with see-through backgrounds in `pip/poses/` (idle, blink, land, happy, run 1–4, jump, spin, hurt, tumble), and the game-ready sprite sheet `pip-game-sheet.png` with its `.json` |
+| `pip/` | Pip, the red robot hero of the platformer game (bold outlined cartoon style): a hero picture, 12 separate poses with see-through backgrounds in `pip/poses/` (idle, blink, land, happy, run 1–6, jump, spin, hurt, tumble), and the game-ready sprite sheet `pip-game-sheet.png` with its `.json` |
 | `flags/` | every country's flag (271, incl. Wales, England, Scotland, EU, UN), square versions in `flags/square/`, names and capitals in `flags/flags.json` (flag-icons, MIT licence) |
 | `originals/` | the full-size Gemini sheets, exactly as made |
 | `library.json` | a list of every picture with its name and file, for apps to read |
