@@ -2785,6 +2785,22 @@
    "folder": "pip/enemies",
    "items": [
     {
+     "name": "Gloop (legless) ooze 1 squashed (see-through background)",
+     "file": "pip/enemies/gloop-ooze-1-squashed.webp"
+    },
+    {
+     "name": "Gloop (legless) ooze 2 dome (see-through background)",
+     "file": "pip/enemies/gloop-ooze-2-dome.webp"
+    },
+    {
+     "name": "Gloop (legless) ooze 3 stretched (see-through background)",
+     "file": "pip/enemies/gloop-ooze-3-stretched.webp"
+    },
+    {
+     "name": "Gloop (legless) ooze 4 trail (see-through background)",
+     "file": "pip/enemies/gloop-ooze-4-trail.webp"
+    },
+    {
      "name": "Gloop walk 1 (see-through background)",
      "file": "pip/enemies/gloop-walk-1.webp"
     },
@@ -2959,6 +2975,7 @@
   "originals/pip-items-gemini.jpg",
   "originals/pip-sky-gemini.jpg",
   "originals/pip-hills-gemini.jpg",
-  "originals/pip-tiles-gemini.jpg"
+  "originals/pip-tiles-gemini.jpg",
+  "originals/pip-gloop-ooze-gemini.jpg"
  ]
 }
