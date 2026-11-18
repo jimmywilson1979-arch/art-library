@@ -3071,6 +3071,76 @@
      "file": "pip/world3/game-yeti.png"
     }
    ]
+  },
+  {
+   "title": "Pip World 4 – Junkyard Factory",
+   "folder": "pip/world4",
+   "items": [
+    {
+     "name": "Rust-rat robot enemy (Sprixen, see-through)",
+     "file": "pip/world4/rust-rat.png"
+    },
+    {
+     "name": "Rust-rat run – 8-frame sheet (Sprixen)",
+     "file": "pip/world4/rust-rat-run-sheet.png"
+    },
+    {
+     "name": "Spring hopper robot enemy (Sprixen, see-through)",
+     "file": "pip/world4/spring-hopper.png"
+    },
+    {
+     "name": "Spring hopper hop – 6-frame sheet (Sprixen)",
+     "file": "pip/world4/spring-hopper-hop-sheet.png"
+    },
+    {
+     "name": "Spark drone enemy (Sprixen, see-through)",
+     "file": "pip/world4/spark-drone.png"
+    },
+    {
+     "name": "Spark drone hover – 6-frame sheet (Sprixen)",
+     "file": "pip/world4/spark-drone-fly-sheet.png"
+    },
+    {
+     "name": "Scrap King boss (Sprixen, see-through, 512px)",
+     "file": "pip/world4/scrap-king.png"
+    },
+    {
+     "name": "Scrap King walk – animation sheet (Sprixen)",
+     "file": "pip/world4/scrap-king-walk-sheet.png"
+    },
+    {
+     "name": "Scrap King magnet – animation sheet (Sprixen)",
+     "file": "pip/world4/scrap-king-magnet-sheet.png"
+    },
+    {
+     "name": "Scrap King slam – animation sheet (Sprixen)",
+     "file": "pip/world4/scrap-king-slam-sheet.png"
+    },
+    {
+     "name": "Scrap King overheat – animation sheet (Sprixen)",
+     "file": "pip/world4/scrap-king-overheat-sheet.png"
+    },
+    {
+     "name": "Junkyard factory background, sunset (Sprixen, 960x540)",
+     "file": "pip/world4/junkyard-factory-background.png"
+    },
+    {
+     "name": "rat – game-ready sheet used in Pip",
+     "file": "pip/world4/game-rat.png"
+    },
+    {
+     "name": "hopper – game-ready sheet used in Pip",
+     "file": "pip/world4/game-hopper.png"
+    },
+    {
+     "name": "drone – game-ready sheet used in Pip",
+     "file": "pip/world4/game-drone.png"
+    },
+    {
+     "name": "king – game-ready sheet used in Pip",
+     "file": "pip/world4/game-king.png"
+    }
+   ]
   }
  ],
  "originals": [
