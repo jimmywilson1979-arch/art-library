@@ -3005,6 +3005,20 @@
      "file": "pip/world2/seaside-background.jpg"
     }
    ]
+  },
+  {
+   "title": "Pip World 3 – Frosty Peaks",
+   "folder": "pip/world3",
+   "items": [
+    {
+     "name": "Penguin-bot enemy (made with Sprixen, see-through background)",
+     "file": "pip/world3/penguin-bot.png"
+    },
+    {
+     "name": "Penguin-bot waddle walk – 8-frame sprite sheet, 256px frames (Sprixen)",
+     "file": "pip/world3/penguin-bot-walk-sheet.png"
+    }
+   ]
   }
  ],
  "originals": [
