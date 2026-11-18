@@ -3141,6 +3141,72 @@
      "file": "pip/world4/game-king.png"
     }
    ]
+  },
+  {
+   "title": "Pip World 5 – Cloud Kingdom",
+   "folder": "pip/world5",
+   "items": [
+    {
+     "name": "Storm-cloud bot enemy (Sprixen, see-through)",
+     "file": "pip/world5/storm-cloud-bot.png"
+    },
+    {
+     "name": "Storm-cloud bot floating – 6-frame sheet (Sprixen)",
+     "file": "pip/world5/storm-cloud-bot-float-sheet.png"
+    },
+    {
+     "name": "Propeller bird bot enemy (Sprixen, see-through)",
+     "file": "pip/world5/propeller-bird.png"
+    },
+    {
+     "name": "Propeller bird flying – 6-frame sheet (Sprixen)",
+     "file": "pip/world5/propeller-bird-fly-sheet.png"
+    },
+    {
+     "name": "Balloon bot (Sprixen, see-through)",
+     "file": "pip/world5/balloon-bot.png"
+    },
+    {
+     "name": "Balloon bot bobbing – 6-frame sheet (Sprixen)",
+     "file": "pip/world5/balloon-bot-bob-sheet.png"
+    },
+    {
+     "name": "Queen Buzz boss (Sprixen, see-through, 512px)",
+     "file": "pip/world5/queen-buzz.png"
+    },
+    {
+     "name": "Queen Buzz fly – animation sheet (Sprixen)",
+     "file": "pip/world5/queen-buzz-fly-sheet.png"
+    },
+    {
+     "name": "Queen Buzz dive – animation sheet (Sprixen)",
+     "file": "pip/world5/queen-buzz-dive-sheet.png"
+    },
+    {
+     "name": "Queen Buzz dizzy – animation sheet (Sprixen)",
+     "file": "pip/world5/queen-buzz-dizzy-sheet.png"
+    },
+    {
+     "name": "Cloud kingdom background with castle and rainbow (Sprixen, 960x540)",
+     "file": "pip/world5/cloud-kingdom-background.png"
+    },
+    {
+     "name": "storm – game-ready sheet used in Pip",
+     "file": "pip/world5/game-storm.png"
+    },
+    {
+     "name": "bird – game-ready sheet used in Pip",
+     "file": "pip/world5/game-bird.png"
+    },
+    {
+     "name": "balloon – game-ready sheet used in Pip",
+     "file": "pip/world5/game-balloon.png"
+    },
+    {
+     "name": "queen – game-ready sheet used in Pip",
+     "file": "pip/world5/game-queen.png"
+    }
+   ]
   }
  ],
  "originals": [
