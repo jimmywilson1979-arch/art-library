@@ -1,0 +1,21 @@
+{
+ "w": 96,
+ "h": 96,
+ "ax": 48.3,
+ "ay": 77.4,
+ "names": [
+  "idle1",
+  "blink",
+  "land",
+  "happy",
+  "run1",
+  "run2",
+  "run3",
+  "run4",
+  "jump",
+  "spin",
+  "hurt",
+  "tumble"
+ ],
+ "note": "Game-ready sheet: frames left to right, each w x h; ax/ay = feet anchor inside a frame"
+}

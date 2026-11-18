@@ -2709,6 +2709,68 @@
      "file": "robot/exploded-view.webp"
     }
    ]
+  },
+  {
+   "title": "Pip (platformer hero)",
+   "folder": "pip",
+   "items": [
+    {
+     "name": "Pip – hero picture (cheeky grin)",
+     "file": "pip/pip-hero.webp"
+    },
+    {
+     "name": "Pip – idle pose (see-through background)",
+     "file": "pip/poses/pip-idle.webp"
+    },
+    {
+     "name": "Pip – blink pose (see-through background)",
+     "file": "pip/poses/pip-blink.webp"
+    },
+    {
+     "name": "Pip – land pose (see-through background)",
+     "file": "pip/poses/pip-land.webp"
+    },
+    {
+     "name": "Pip – happy pose (see-through background)",
+     "file": "pip/poses/pip-happy.webp"
+    },
+    {
+     "name": "Pip – run 1 pose (see-through background)",
+     "file": "pip/poses/pip-run-1.webp"
+    },
+    {
+     "name": "Pip – run 2 pose (see-through background)",
+     "file": "pip/poses/pip-run-2.webp"
+    },
+    {
+     "name": "Pip – run 3 pose (see-through background)",
+     "file": "pip/poses/pip-run-3.webp"
+    },
+    {
+     "name": "Pip – run 4 pose (see-through background)",
+     "file": "pip/poses/pip-run-4.webp"
+    },
+    {
+     "name": "Pip – jump pose (see-through background)",
+     "file": "pip/poses/pip-jump.webp"
+    },
+    {
+     "name": "Pip – spin pose (see-through background)",
+     "file": "pip/poses/pip-spin.webp"
+    },
+    {
+     "name": "Pip – hurt pose (see-through background)",
+     "file": "pip/poses/pip-hurt.webp"
+    },
+    {
+     "name": "Pip – tumble pose (see-through background)",
+     "file": "pip/poses/pip-tumble.webp"
+    },
+    {
+     "name": "Pip – game sprite sheet (12 frames, used in the platformer)",
+     "file": "pip/pip-game-sheet.png"
+    }
+   ]
   }
  ],
  "originals": [
@@ -2749,6 +2811,8 @@
   "originals/robot-thinking-closeup.jpg",
   "originals/robot-living-room.jpg",
   "originals/robot-charging-dock.jpg",
-  "originals/robot-exploded-view.jpg"
+  "originals/robot-exploded-view.jpg",
+  "originals/pip-concepts-cheeky.jpg",
+  "originals/pip-sprite-sheet-gemini.jpg"
  ]
 }
