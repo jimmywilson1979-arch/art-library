@@ -3017,6 +3017,58 @@
     {
      "name": "Penguin-bot waddle walk – 8-frame sprite sheet, 256px frames (Sprixen)",
      "file": "pip/world3/penguin-bot-walk-sheet.png"
+    },
+    {
+     "name": "Snowman-bot enemy (Sprixen, see-through background)",
+     "file": "pip/world3/snowman-bot.png"
+    },
+    {
+     "name": "Snowman-bot throw – 6-frame sheet (Sprixen)",
+     "file": "pip/world3/snowman-bot-throw-sheet.png"
+    },
+    {
+     "name": "Ice bat-bot enemy (Sprixen, see-through background)",
+     "file": "pip/world3/ice-bat.png"
+    },
+    {
+     "name": "Ice bat-bot flying – 6-frame sheet (Sprixen)",
+     "file": "pip/world3/ice-bat-fly-sheet.png"
+    },
+    {
+     "name": "Penguin-bot belly slide – 6-frame sheet (Sprixen)",
+     "file": "pip/world3/penguin-bot-slide-sheet.png"
+    },
+    {
+     "name": "Yeti-Bot boss (Sprixen, see-through background, 512px)",
+     "file": "pip/world3/yeti-bot.png"
+    },
+    {
+     "name": "Yeti-Bot walk – 8-frame sheet (Sprixen)",
+     "file": "pip/world3/yeti-bot-walk-sheet.png"
+    },
+    {
+     "name": "Yeti-Bot ground pound – 9-frame sheet (Sprixen)",
+     "file": "pip/world3/yeti-bot-pound-sheet.png"
+    },
+    {
+     "name": "Yeti-Bot dizzy – 6-frame sheet (Sprixen)",
+     "file": "pip/world3/yeti-bot-dizzy-sheet.png"
+    },
+    {
+     "name": "peng – game-ready sheet used in Pip (frames in w3.json)",
+     "file": "pip/world3/game-peng.png"
+    },
+    {
+     "name": "snowbot – game-ready sheet used in Pip (frames in w3.json)",
+     "file": "pip/world3/game-snowbot.png"
+    },
+    {
+     "name": "bat – game-ready sheet used in Pip (frames in w3.json)",
+     "file": "pip/world3/game-bat.png"
+    },
+    {
+     "name": "yeti – game-ready sheet used in Pip (frames in w3.json)",
+     "file": "pip/world3/game-yeti.png"
     }
    ]
   }

@@ -26,7 +26,7 @@ Pictures made for my projects, kept in one place so any app can use them.
 | `pip/enemies/` | Pip's enemies in the same style: Gloop (purple slime, now a legless oozing blob – the old legged poses are kept too), Buzzbot (flying robot bug), Clanker (wind-up tin crab), 4 poses each with see-through backgrounds, plus game-ready sheets; Captain Clank, the pirate crab boss of World 2 (stand, claws up, throw, dizzy) |
 | `pip/world/` | Pip's world: batteries, golden battery, shield orb, heart, blocks, spring, checkpoint flags, finish star, moving platform (see-through), the sunny sky, a seamless hills strip, and 48px game tiles (`game-*.png` are the in-game sizes) |
 | `pip/world2/` | Pip World 2 Sandy Shores: barrel, sand strip, pier plank, palm tree, seagull (2 flaps), sea urchin, jellyfish, power-ups (rocket boots, battery magnet, speed boost), diving helmet – all see-through – and the seaside background |
-| `pip/world3/` | Pip World 3 Frosty Peaks: the penguin-bot enemy and its 8-frame waddle sheet (first test made with Sprixen) |
+| `pip/world3/` | Pip World 3 Frosty Peaks, made with Sprixen: penguin-bot (waddle + belly slide), snowman-bot (throw), ice bat-bot (fly) and the Yeti-Bot boss (walk, ground pound, dizzy), each as a single picture plus animation sheets, and the game-ready sheets |
 | `flags/` | every country's flag (271, incl. Wales, England, Scotland, EU, UN), square versions in `flags/square/`, names and capitals in `flags/flags.json` (flag-icons, MIT licence) |
 | `originals/` | the full-size Gemini sheets, exactly as made |
 | `library.json` | a list of every picture with its name and file, for apps to read |
