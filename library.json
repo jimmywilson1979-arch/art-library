@@ -2945,6 +2945,10 @@
     {
      "name": "Game tiles 48px: grass, dirt, brick, lightning block, used block, plank, stone",
      "file": "pip/world/tiles-48px.png"
+    },
+    {
+     "name": "Sunny sky with clouds, sun and distant castle (Sprixen, 960x540)",
+     "file": "pip/world/sunny-sky-sprixen.png"
     }
    ]
   },
@@ -3069,6 +3073,10 @@
     {
      "name": "yeti – game-ready sheet used in Pip (frames in w3.json)",
      "file": "pip/world3/game-yeti.png"
+    },
+    {
+     "name": "Snowy mountain sky with ski lodge (Sprixen, 960x540)",
+     "file": "pip/world3/snowy-sky-sprixen.png"
     }
    ]
   },
@@ -3205,6 +3213,52 @@
     {
      "name": "queen – game-ready sheet used in Pip",
      "file": "pip/world5/game-queen.png"
+    }
+   ]
+  },
+  {
+   "title": "Pip bosses – hurt poses",
+   "folder": "pip/bosses-hurt",
+   "items": [
+    {
+     "name": "King Gloop hurt (stomped) – 6-frame sheet (Sprixen)",
+     "file": "pip/bosses-hurt/gloop-hurt-sheet.png"
+    },
+    {
+     "name": "King Gloop hurt – game-ready sheet",
+     "file": "pip/bosses-hurt/game-hurt-gloop.webp"
+    },
+    {
+     "name": "Captain Clank hurt (stomped) – 6-frame sheet (Sprixen)",
+     "file": "pip/bosses-hurt/crab-hurt-sheet.png"
+    },
+    {
+     "name": "Captain Clank hurt – game-ready sheet",
+     "file": "pip/bosses-hurt/game-hurt-crab.webp"
+    },
+    {
+     "name": "Yeti-Bot hurt (stomped) – 6-frame sheet (Sprixen)",
+     "file": "pip/bosses-hurt/yeti-hurt-sheet.png"
+    },
+    {
+     "name": "Yeti-Bot hurt – game-ready sheet",
+     "file": "pip/bosses-hurt/game-hurt-yeti.webp"
+    },
+    {
+     "name": "Scrap King hurt (stomped) – 6-frame sheet (Sprixen)",
+     "file": "pip/bosses-hurt/king-hurt-sheet.png"
+    },
+    {
+     "name": "Scrap King hurt – game-ready sheet",
+     "file": "pip/bosses-hurt/game-hurt-king.webp"
+    },
+    {
+     "name": "Queen Buzz hurt (stomped) – 6-frame sheet (Sprixen)",
+     "file": "pip/bosses-hurt/queen-hurt-sheet.png"
+    },
+    {
+     "name": "Queen Buzz hurt – game-ready sheet",
+     "file": "pip/bosses-hurt/game-hurt-queen.webp"
     }
    ]
   }

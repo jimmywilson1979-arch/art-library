@@ -29,6 +29,7 @@ Pictures made for my projects, kept in one place so any app can use them.
 | `pip/world3/` | Pip World 3 Frosty Peaks, made with Sprixen: penguin-bot (waddle + belly slide), snowman-bot (throw), ice bat-bot (fly) and the Yeti-Bot boss (walk, ground pound, dizzy), each as a single picture plus animation sheets, and the game-ready sheets |
 | `pip/world4/` | Pip World 4 Junkyard Factory, made with Sprixen: rust-rat (run), spring hopper (hop), spark drone (hover), the Scrap King boss (walk, magnet, slam, overheat) and the sunset factory background, plus game-ready sheets |
 | `pip/world5/` | Pip World 5 Cloud Kingdom, made with Sprixen: storm-cloud bot, propeller bird, balloon bot, Queen Buzz boss (fly, dive, dizzy) and the cloud castle background, plus game-ready sheets |
+| `pip/bosses-hurt/` | Hurt (stomped) animations for all five Pip bosses – King Gloop, Captain Clank, Yeti-Bot, Scrap King, Queen Buzz – made with Sprixen, plus game-ready sheets. New Sprixen skies are in `pip/world/` (sunny) and `pip/world3/` (snowy) |
 | `flags/` | every country's flag (271, incl. Wales, England, Scotland, EU, UN), square versions in `flags/square/`, names and capitals in `flags/flags.json` (flag-icons, MIT licence) |
 | `originals/` | the full-size Gemini sheets, exactly as made |
 | `library.json` | a list of every picture with its name and file, for apps to read |
