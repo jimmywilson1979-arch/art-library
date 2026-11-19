@@ -3261,6 +3261,24 @@
      "file": "pip/bosses-hurt/game-hurt-queen.webp"
     }
    ]
+  },
+  {
+   "title": "Pip – boss spark orbs & bonus door",
+   "folder": "pip/items",
+   "items": [
+    {
+     "name": "Spark orb (grab to zap the boss)",
+     "file": "pip/items/spark-orb.png"
+    },
+    {
+     "name": "Spark zap shot",
+     "file": "pip/items/spark-zap.png"
+    },
+    {
+     "name": "Purple ★ bonus-room door",
+     "file": "pip/items/bonus-door.png"
+    }
+   ]
   }
  ],
  "originals": [
