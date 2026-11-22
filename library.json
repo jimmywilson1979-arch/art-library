@@ -3279,6 +3279,28 @@
      "file": "pip/items/bonus-door.png"
     }
    ]
+  },
+  {
+   "title": "Camera photos (Tom’s Nikon D5300)",
+   "folder": "photos/d5300",
+   "items": [
+    {
+     "name": "D5300 back (Tom’s camera)",
+     "file": "photos/d5300/d5300-back.webp"
+    },
+    {
+     "name": "D5300 top (Tom’s camera)",
+     "file": "photos/d5300/d5300-top.webp"
+    },
+    {
+     "name": "D5300 left side (Tom’s camera)",
+     "file": "photos/d5300/d5300-side.webp"
+    },
+    {
+     "name": "D5300 front, lens off (Tom’s camera)",
+     "file": "photos/d5300/d5300-front.webp"
+    }
+   ]
   }
  ],
  "originals": [
