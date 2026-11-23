@@ -3301,6 +3301,36 @@
      "file": "photos/d5300/d5300-front.webp"
     }
    ]
+  },
+  {
+   "title": "ChatGPT image tests (Nov 2026)",
+   "folder": "comparisons/chatgpt",
+   "items": [
+    {
+     "name": "African elephant (ChatGPT, comparison with Gemini card)",
+     "file": "comparisons/chatgpt/african-elephant.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "Storybook illustration in warm hand-painted gouache and watercolour with fine ink outlines. An African elephant walking towards the viewer across a dry, dusty savanna, tusks visible, ears spread. Pale cream sky, baobab trees in the hazy background, dry grass, small shrubs and pebbles in the foreground. Muted earthy palette. Square image, whole elephant in frame, no text, no border.",
+     "made": "2026-11-23",
+     "use": "Image tool comparison test 1"
+    },
+    {
+     "name": "Mudwallow Lane village (ChatGPT, comparison with Gemini)",
+     "file": "comparisons/chatgpt/mudwallow-lane.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "Storybook illustration in warm hand-painted gouache and watercolour with fine ink outlines. A muddy medieval village lane winding uphill between thatched, timber-framed cottages, with puddles and wheel ruts. Pigs wandering in the mud, villagers in aprons and headscarves going about their day, an old woman in the foreground, a stone castle tower on the hill behind. Soft daylight, earthy greens and browns. Landscape format, lots of small details, no text.",
+     "made": "2026-11-23",
+     "use": "Image tool comparison test 2"
+    },
+    {
+     "name": "Penguin-bot enemy (ChatGPT, see-through, comparison with Sprixen)",
+     "file": "comparisons/chatgpt/penguin-bot.png",
+     "tool": "ChatGPT (Free)",
+     "prompt": "Cartoon game sprite for a 2D platformer: a small, cute robot penguin enemy. Navy-blue riveted metal body with a white belly panel, orange beak and feet, a short antenna on top, a round bolt on the side of its head, and a red scarf blowing behind. Three-quarter view facing left, standing. Bold clean outlines, bright cel shading, readable at small size. Transparent background, full character in frame, no shadow, no text.",
+     "made": "2026-11-23",
+     "use": "Image tool comparison test 3"
+    }
+   ]
   }
  ],
  "originals": [
