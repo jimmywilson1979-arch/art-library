@@ -3623,6 +3623,14 @@
      "prompt": "see sheet",
      "made": "2026-11-24",
      "use": "App Launcher card icon (256px, see-through corners)"
+    },
+    {
+     "name": "App icon: room swap",
+     "file": "icons/app-launcher/room-swap.webp",
+     "tool": "ChatGPT (Plus)",
+     "prompt": "Same style, a single icon: a cube-shaped room in 3D with a swap arrow curving around it",
+     "made": "2026-11-24",
+     "use": "App Launcher card icon (256px, see-through corners)"
     }
    ]
   }
