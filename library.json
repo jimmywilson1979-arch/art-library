@@ -3633,6 +3633,20 @@
      "use": "App Launcher card icon (256px, see-through corners)"
     }
    ]
+  },
+  {
+   "title": "Till Ready design concepts (Nov 2026)",
+   "folder": "designs/till-ready",
+   "items": [
+    {
+     "name": "C01 till screen concept: dark and gold, card-first banner, illustrative demo barcode (not scannable), Accepted/Refused, save barcode and reminder buttons",
+     "file": "designs/till-ready/c01-till-screen-concept.webp",
+     "tool": "ChatGPT (Plus)",
+     "prompt": "Portrait phone till screen: card-first banner, large barcode with made-up digits, Accepted and Refused buttons, status label, Save barcode to phone and Add reminder buttons",
+     "made": "2026-11-24",
+     "use": "Visual reference for the Till Ready v1 mockup; no real voucher data"
+    }
+   ]
   }
  ],
  "originals": [
