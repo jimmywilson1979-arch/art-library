@@ -3329,6 +3329,22 @@
      "prompt": "Cartoon game sprite for a 2D platformer: a small, cute robot penguin enemy. Navy-blue riveted metal body with a white belly panel, orange beak and feet, a short antenna on top, a round bolt on the side of its head, and a red scarf blowing behind. Three-quarter view facing left, standing. Bold clean outlines, bright cel shading, readable at small size. Transparent background, full character in frame, no shadow, no text.",
      "made": "2026-11-23",
      "use": "Image tool comparison test 3"
+    },
+    {
+     "name": "Penguin-bot waddle walk – 4-frame sprite sheet, 543x724 frames, see-through background (ChatGPT test 4)",
+     "file": "comparisons/chatgpt/penguin-bot-walk-sheet.png",
+     "tool": "ChatGPT (Free)",
+     "prompt": "4-frame walk cycle of the penguin-bot it made earlier, same size and position every frame, transparent background",
+     "made": "2026-11-24",
+     "use": "Pip World 3 enemy waddle; consistency test vs Sprixen"
+    },
+    {
+     "name": "Penguin-bot waddle walk – animated GIF as delivered by ChatGPT",
+     "file": "comparisons/chatgpt/penguin-bot-walk.gif",
+     "tool": "ChatGPT (Free)",
+     "prompt": "as above",
+     "made": "2026-11-24",
+     "use": "Preview of the walk cycle"
     }
    ]
   }
