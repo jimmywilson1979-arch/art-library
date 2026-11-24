@@ -3361,6 +3361,14 @@
      "use": "Source sheet for the App Launcher icons"
     },
     {
+     "name": "Icon sheet 2 (ChatGPT, 1254px)",
+     "file": "icons/app-launcher/sheets/sheet-2.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "Same style, new sheet of 9",
+     "made": "2026-11-24",
+     "use": "Source sheet for the App Launcher icons"
+    },
+    {
      "name": "Icon sheet 3 (ChatGPT, 1254px)",
      "file": "icons/app-launcher/sheets/sheet-3.webp",
      "tool": "ChatGPT (Free)",
@@ -3539,6 +3547,78 @@
     {
      "name": "App icon: wedding",
      "file": "icons/app-launcher/wedding.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "see sheet",
+     "made": "2026-11-24",
+     "use": "App Launcher card icon (256px, see-through corners)"
+    },
+    {
+     "name": "App icon: read to me",
+     "file": "icons/app-launcher/read-to-me.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "see sheet",
+     "made": "2026-11-24",
+     "use": "App Launcher card icon (256px, see-through corners)"
+    },
+    {
+     "name": "App icon: puzzle play",
+     "file": "icons/app-launcher/puzzle-play.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "see sheet",
+     "made": "2026-11-24",
+     "use": "App Launcher card icon (256px, see-through corners)"
+    },
+    {
+     "name": "App icon: puzzle albums",
+     "file": "icons/app-launcher/puzzle-albums.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "see sheet",
+     "made": "2026-11-24",
+     "use": "App Launcher card icon (256px, see-through corners)"
+    },
+    {
+     "name": "App icon: memory pieces",
+     "file": "icons/app-launcher/memory-pieces.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "see sheet",
+     "made": "2026-11-24",
+     "use": "App Launcher card icon (256px, see-through corners)"
+    },
+    {
+     "name": "App icon: georges photo lab",
+     "file": "icons/app-launcher/georges-photo-lab.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "see sheet",
+     "made": "2026-11-24",
+     "use": "App Launcher card icon (256px, see-through corners)"
+    },
+    {
+     "name": "App icon: robot face",
+     "file": "icons/app-launcher/robot-face.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "see sheet",
+     "made": "2026-11-24",
+     "use": "App Launcher card icon (256px, see-through corners)"
+    },
+    {
+     "name": "App icon: spanish",
+     "file": "icons/app-launcher/spanish.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "see sheet",
+     "made": "2026-11-24",
+     "use": "App Launcher card icon (256px, see-through corners)"
+    },
+    {
+     "name": "App icon: art library",
+     "file": "icons/app-launcher/art-library.webp",
+     "tool": "ChatGPT (Free)",
+     "prompt": "see sheet",
+     "made": "2026-11-24",
+     "use": "App Launcher card icon (256px, see-through corners)"
+    },
+    {
+     "name": "App icon: style studio",
+     "file": "icons/app-launcher/style-studio.webp",
      "tool": "ChatGPT (Free)",
      "prompt": "see sheet",
      "made": "2026-11-24",
