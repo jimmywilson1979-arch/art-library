@@ -4184,6 +4184,54 @@
      "use": "Bounce Brawl game pose"
     }
    ]
+  },
+  {
+   "title": "Bounce Brawl arenas (ChatGPT, Nov 2026)",
+   "folder": "bounce-brawl/arenas",
+   "items": [
+    {
+     "name": "Sunny Sky Island – background (small first draft, 836x305)",
+     "file": "bounce-brawl/arenas/sky-island-background-small.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl arena"
+    },
+    {
+     "name": "Sunny Sky Island – platform (see-through)",
+     "file": "bounce-brawl/arenas/sky-island-platform.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl arena platform"
+    },
+    {
+     "name": "Frozen Dojo – background (small first draft, 836x305)",
+     "file": "bounce-brawl/arenas/frozen-dojo-background-small.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl arena"
+    },
+    {
+     "name": "Frozen Dojo – platform (see-through)",
+     "file": "bounce-brawl/arenas/frozen-dojo-platform.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl arena platform"
+    },
+    {
+     "name": "Lava Quarry – background (small first draft, 836x305)",
+     "file": "bounce-brawl/arenas/lava-quarry-background-small.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl arena"
+    },
+    {
+     "name": "Lava Quarry – platform (see-through)",
+     "file": "bounce-brawl/arenas/lava-quarry-platform.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl arena platform"
+    }
+   ]
   }
  ],
  "originals": [
@@ -4246,6 +4294,7 @@
   "originals/bounce-brawl-boulder-pose-sheet-chatgpt.webp",
   "originals/bounce-brawl-gloop-pose-sheet-chatgpt.webp",
   "originals/bounce-brawl-zippa-pose-sheet-chatgpt.webp",
-  "originals/bounce-brawl-bonk-pose-sheet-chatgpt.webp"
+  "originals/bounce-brawl-bonk-pose-sheet-chatgpt.webp",
+  "originals/bounce-brawl-arenas-chatgpt.webp"
  ]
 }
