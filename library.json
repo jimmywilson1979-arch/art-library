@@ -4189,6 +4189,258 @@
      "tool": "Claude (from ChatGPT Gloop)",
      "made": "2026-11-25",
      "use": "Bounce Brawl boss reference"
+    },
+    {
+     "name": "Bonk – run cycle frame 1 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Bonk – run cycle frame 2 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Bonk – run cycle frame 3 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-3.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Bonk – run cycle frame 4 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-4.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Bonk – run cycle frame 5 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-5.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Bonk – run cycle frame 6 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-6.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Pip – run cycle frame 1 of 6",
+     "file": "bounce-brawl/fighters/pip/pip-run-cycle-1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Pip – run cycle frame 2 of 6",
+     "file": "bounce-brawl/fighters/pip/pip-run-cycle-2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Pip – run cycle frame 3 of 6",
+     "file": "bounce-brawl/fighters/pip/pip-run-cycle-3.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Pip – run cycle frame 4 of 6",
+     "file": "bounce-brawl/fighters/pip/pip-run-cycle-4.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Pip – run cycle frame 5 of 6",
+     "file": "bounce-brawl/fighters/pip/pip-run-cycle-5.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Pip – run cycle frame 6 of 6",
+     "file": "bounce-brawl/fighters/pip/pip-run-cycle-6.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Gloop – run cycle frame 1 of 6 (ooze)",
+     "file": "bounce-brawl/fighters/gloop/gloop-run-cycle-1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Gloop – run cycle frame 2 of 6 (ooze)",
+     "file": "bounce-brawl/fighters/gloop/gloop-run-cycle-2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Gloop – run cycle frame 3 of 6 (ooze)",
+     "file": "bounce-brawl/fighters/gloop/gloop-run-cycle-3.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Gloop – run cycle frame 4 of 6 (ooze)",
+     "file": "bounce-brawl/fighters/gloop/gloop-run-cycle-4.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Gloop – run cycle frame 5 of 6 (ooze)",
+     "file": "bounce-brawl/fighters/gloop/gloop-run-cycle-5.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Gloop – run cycle frame 6 of 6 (ooze)",
+     "file": "bounce-brawl/fighters/gloop/gloop-run-cycle-6.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Zippa – run cycle frame 1 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Zippa – run cycle frame 2 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Zippa – run cycle frame 3 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-3.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Zippa – run cycle frame 4 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-4.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Zippa – run cycle frame 5 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-5.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Zippa – run cycle frame 6 of 6 – outfit differs from the pose sheet",
+     "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-6.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Boulder – run cycle frame 1 of 6",
+     "file": "bounce-brawl/fighters/boulder/boulder-run-cycle-1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Boulder – run cycle frame 2 of 6",
+     "file": "bounce-brawl/fighters/boulder/boulder-run-cycle-2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Boulder – run cycle frame 3 of 6",
+     "file": "bounce-brawl/fighters/boulder/boulder-run-cycle-3.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Boulder – run cycle frame 4 of 6",
+     "file": "bounce-brawl/fighters/boulder/boulder-run-cycle-4.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Boulder – run cycle frame 5 of 6",
+     "file": "bounce-brawl/fighters/boulder/boulder-run-cycle-5.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Boulder – run cycle frame 6 of 6",
+     "file": "bounce-brawl/fighters/boulder/boulder-run-cycle-6.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Frostbite – run cycle frame 1 of 6",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-run-cycle-1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Frostbite – run cycle frame 2 of 6",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-run-cycle-2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Frostbite – run cycle frame 3 of 6",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-run-cycle-3.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Frostbite – run cycle frame 4 of 6",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-run-cycle-4.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Frostbite – run cycle frame 5 of 6",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-run-cycle-5.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
+    },
+    {
+     "name": "Frostbite – run cycle frame 6 of 6",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-run-cycle-6.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl run animation"
     }
    ]
   },
@@ -4545,6 +4797,12 @@
   "originals/bounce-brawl-boss-crab-chatgpt.webp",
   "originals/bounce-brawl-boss-yeti-chatgpt.webp",
   "originals/bounce-brawl-boss-king-chatgpt.webp",
-  "originals/bounce-brawl-boss-queen-chatgpt.webp"
+  "originals/bounce-brawl-boss-queen-chatgpt.webp",
+  "originals/bounce-brawl-bonk-run-cycle-chatgpt.webp",
+  "originals/bounce-brawl-pip-run-cycle-chatgpt.webp",
+  "originals/bounce-brawl-gloop-run-cycle-chatgpt.webp",
+  "originals/bounce-brawl-zippa-run-cycle-chatgpt.webp",
+  "originals/bounce-brawl-boulder-run-cycle-chatgpt.webp",
+  "originals/bounce-brawl-frostbite-run-cycle-chatgpt.webp"
  ]
 }
