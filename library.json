@@ -3772,6 +3772,61 @@
      "use": "Visual reference for the Till Ready v1 mockup; no real voucher data"
     }
    ]
+  },
+  {
+   "title": "Bounce Brawl fighters – references (ChatGPT, Nov 2026)",
+   "folder": "bounce-brawl/fighters",
+   "items": [
+    {
+     "name": "Bounce Brawl V1 line-up – all 6 fighters at true relative sizes",
+     "file": "bounce-brawl/fighters/roster-lineup.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl fighter design reference"
+    },
+    {
+     "name": "Pip v2 – official front reference (see pip/v2)",
+     "file": "pip/v2/pip-v2-reference-front.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl style guide"
+    },
+    {
+     "name": "Zippa – front reference (speedster gecko, goggles, purple jacket)",
+     "file": "bounce-brawl/fighters/zippa-reference.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl fighter design reference"
+    },
+    {
+     "name": "Frostbite – front reference (penguin ninja, teal headband and snowflake scarf)",
+     "file": "bounce-brawl/fighters/frostbite-reference.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl fighter design reference"
+    },
+    {
+     "name": "Bonk – front reference (hippo boxer, gold gloves and belt)",
+     "file": "bounce-brawl/fighters/bonk-reference.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl fighter design reference"
+    },
+    {
+     "name": "Gloop – front reference (purple slime with bubble fists)",
+     "file": "bounce-brawl/fighters/gloop-reference.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl fighter design reference"
+    },
+    {
+     "name": "Boulder – front reference (orange stone golem, charcoal armour)",
+     "file": "bounce-brawl/fighters/boulder-reference.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl fighter design reference"
+    }
+   ]
   }
  ],
  "originals": [
