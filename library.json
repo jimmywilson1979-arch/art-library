@@ -2781,6 +2781,124 @@
    ]
   },
   {
+   "title": "Pip v2 – ChatGPT upgrade (Nov 2026)",
+   "folder": "pip/v2",
+   "items": [
+    {
+     "name": "Pip v2 – punch (sheet 1, chosen look; see-through background)",
+     "file": "pip/v2/pip-v2-s1-punch.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – ground-slam landing with impact flash (sheet 1, chosen look; see-through background)",
+     "file": "pip/v2/pip-v2-s1-slam-landing.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – dash with dust cloud (sheet 1, chosen look; see-through background)",
+     "file": "pip/v2/pip-v2-s1-dash-dust.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – flying kick (sheet 1, chosen look; see-through background)",
+     "file": "pip/v2/pip-v2-s1-flying-kick.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – run (sheet 2; see-through background)",
+     "file": "pip/v2/pip-v2-s2-run.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – fist pump (win pose) (sheet 2; see-through background)",
+     "file": "pip/v2/pip-v2-s2-fist-pump-win.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – dash with cloud (sheet 2; see-through background)",
+     "file": "pip/v2/pip-v2-s2-dash-cloud.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – spin kick (sheet 2; see-through background)",
+     "file": "pip/v2/pip-v2-s2-spin-kick.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – run (sheet 3; see-through background)",
+     "file": "pip/v2/pip-v2-s3-run.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – arms-out jump (gloves came out navy) (sheet 3; see-through background)",
+     "file": "pip/v2/pip-v2-s3-arms-out-jump-navy-gloves.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – dash with speed lines (sheet 3; see-through background)",
+     "file": "pip/v2/pip-v2-s3-dash-speedlines.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – fist pump (sheet 3; see-through background)",
+     "file": "pip/v2/pip-v2-s3-fist-pump.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – punch (sheet 4; see-through background)",
+     "file": "pip/v2/pip-v2-s4-punch.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – slam with impact flashes (sheet 4; see-through background)",
+     "file": "pip/v2/pip-v2-s4-slam.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – reaching dash (angular face – off-model) (sheet 4; see-through background)",
+     "file": "pip/v2/pip-v2-s4-reach-angular-offmodel.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    },
+    {
+     "name": "Pip v2 – dash with cloud (sheet 4; see-through background)",
+     "file": "pip/v2/pip-v2-s4-dash-cloud.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Upgraded Pip for Bounce Brawl (sheet 1 = chosen look)"
+    }
+   ]
+  },
+  {
    "title": "Pip enemies (Gloop, Buzzbot, Clanker, Captain Clank)",
    "folder": "pip/enemies",
    "items": [
@@ -3699,6 +3817,10 @@
   "originals/pip-gloop-ooze-gemini.jpg",
   "originals/pip-world2-items-gemini.jpg",
   "originals/pip-captain-clank-gemini.jpg",
-  "originals/pip-seaside-bg-gemini.jpg"
+  "originals/pip-seaside-bg-gemini.jpg",
+  "originals/pip-v2-chatgpt-sheet1.webp",
+  "originals/pip-v2-chatgpt-sheet2.webp",
+  "originals/pip-v2-chatgpt-sheet3.webp",
+  "originals/pip-v2-chatgpt-sheet4.webp"
  ]
 }
