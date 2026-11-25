@@ -4191,42 +4191,42 @@
      "use": "Bounce Brawl boss reference"
     },
     {
-     "name": "Bonk – run cycle frame 1 of 6 – outfit differs from the pose sheet",
+     "name": "Bonk – run cycle frame 1 of 6",
      "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-1.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Bonk – run cycle frame 2 of 6 – outfit differs from the pose sheet",
+     "name": "Bonk – run cycle frame 2 of 6",
      "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-2.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Bonk – run cycle frame 3 of 6 – outfit differs from the pose sheet",
+     "name": "Bonk – run cycle frame 3 of 6",
      "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-3.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Bonk – run cycle frame 4 of 6 – outfit differs from the pose sheet",
+     "name": "Bonk – run cycle frame 4 of 6",
      "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-4.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Bonk – run cycle frame 5 of 6 – outfit differs from the pose sheet",
+     "name": "Bonk – run cycle frame 5 of 6",
      "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-5.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Bonk – run cycle frame 6 of 6 – outfit differs from the pose sheet",
+     "name": "Bonk – run cycle frame 6 of 6",
      "file": "bounce-brawl/fighters/bonk/bonk-run-cycle-6.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
@@ -4317,42 +4317,42 @@
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Zippa – run cycle frame 1 of 6 – outfit differs from the pose sheet",
+     "name": "Zippa – run cycle frame 1 of 6",
      "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-1.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Zippa – run cycle frame 2 of 6 – outfit differs from the pose sheet",
+     "name": "Zippa – run cycle frame 2 of 6",
      "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-2.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Zippa – run cycle frame 3 of 6 – outfit differs from the pose sheet",
+     "name": "Zippa – run cycle frame 3 of 6",
      "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-3.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Zippa – run cycle frame 4 of 6 – outfit differs from the pose sheet",
+     "name": "Zippa – run cycle frame 4 of 6",
      "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-4.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Zippa – run cycle frame 5 of 6 – outfit differs from the pose sheet",
+     "name": "Zippa – run cycle frame 5 of 6",
      "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-5.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl run animation"
     },
     {
-     "name": "Zippa – run cycle frame 6 of 6 – outfit differs from the pose sheet",
+     "name": "Zippa – run cycle frame 6 of 6",
      "file": "bounce-brawl/fighters/zippa/zippa-run-cycle-6.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
@@ -4803,6 +4803,8 @@
   "originals/bounce-brawl-gloop-run-cycle-chatgpt.webp",
   "originals/bounce-brawl-zippa-run-cycle-chatgpt.webp",
   "originals/bounce-brawl-boulder-run-cycle-chatgpt.webp",
-  "originals/bounce-brawl-frostbite-run-cycle-chatgpt.webp"
+  "originals/bounce-brawl-frostbite-run-cycle-chatgpt.webp",
+  "originals/bounce-brawl-bonk-run-cycle-v2-chatgpt.webp",
+  "originals/bounce-brawl-zippa-run-cycle-v2-chatgpt.webp"
  ]
 }
