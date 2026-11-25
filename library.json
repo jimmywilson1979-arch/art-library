@@ -3825,6 +3825,62 @@
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl fighter design reference"
+    },
+    {
+     "name": "Pip – idle pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/pip/pip-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Pip – run pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/pip/pip-run.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Pip – jump pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/pip/pip-jump.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Pip – punch pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/pip/pip-punch.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Pip – dash pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/pip/pip-dash.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Pip – slam pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/pip/pip-slam.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Pip – hurt pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/pip/pip-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Pip – win pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/pip/pip-win.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
     }
    ]
   }
@@ -3883,6 +3939,7 @@
   "originals/pip-v2-chatgpt-sheet1.webp",
   "originals/pip-v2-chatgpt-sheet2.webp",
   "originals/pip-v2-chatgpt-sheet3.webp",
-  "originals/pip-v2-chatgpt-sheet4.webp"
+  "originals/pip-v2-chatgpt-sheet4.webp",
+  "originals/bounce-brawl-pip-pose-sheet-chatgpt.webp"
  ]
 }
