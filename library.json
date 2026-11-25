@@ -2785,6 +2785,13 @@
    "folder": "pip/v2",
    "items": [
     {
+     "name": "Pip v2 – official front-facing reference (ready stance)",
+     "file": "pip/v2/pip-v2-reference-front.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Style guide for the Bounce Brawl fighters"
+    },
+    {
      "name": "Pip v2 – punch (sheet 1, chosen look; see-through background)",
      "file": "pip/v2/pip-v2-s1-punch.webp",
      "tool": "ChatGPT (Plus)",
