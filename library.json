@@ -4190,6 +4190,27 @@
    "folder": "bounce-brawl/arenas",
    "items": [
     {
+     "name": "Sunny Sky Island – full-size background (16:9)",
+     "file": "bounce-brawl/arenas/sky-island-background.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl arena background"
+    },
+    {
+     "name": "Frozen Dojo – full-size background (16:9)",
+     "file": "bounce-brawl/arenas/frozen-dojo-background.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl arena background"
+    },
+    {
+     "name": "Lava Quarry – full-size background (16:9)",
+     "file": "bounce-brawl/arenas/lava-quarry-background.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl arena background"
+    },
+    {
      "name": "Sunny Sky Island – background (small first draft, 836x305)",
      "file": "bounce-brawl/arenas/sky-island-background-small.webp",
      "tool": "ChatGPT (Plus)",
