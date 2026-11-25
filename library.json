@@ -3881,6 +3881,307 @@
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Frostbite – idle pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Frostbite – run pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-run.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Frostbite – jump pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-jump.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Frostbite – punch pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-punch.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Frostbite – dash pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-dash.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Frostbite – slam pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-slam.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Frostbite – hurt pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Frostbite – win pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/frostbite/frostbite-win.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Boulder – idle pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/boulder/boulder-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Boulder – run pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/boulder/boulder-run.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Boulder – jump pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/boulder/boulder-jump.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Boulder – punch pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/boulder/boulder-punch.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Boulder – dash pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/boulder/boulder-dash.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Boulder – slam pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/boulder/boulder-slam.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Boulder – hurt pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/boulder/boulder-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Boulder – win pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/boulder/boulder-win.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Gloop – idle pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/gloop/gloop-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Gloop – run pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/gloop/gloop-run.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Gloop – jump pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/gloop/gloop-jump.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Gloop – punch pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/gloop/gloop-punch.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Gloop – dash pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/gloop/gloop-dash.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Gloop – slam pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/gloop/gloop-slam.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Gloop – hurt pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/gloop/gloop-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Gloop – win pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/gloop/gloop-win.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Gloop – puddle pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/gloop/gloop-puddle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Gloop – fist pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/gloop/gloop-fist.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Zippa – idle pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/zippa/zippa-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Zippa – run pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/zippa/zippa-run.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Zippa – wall-cling pose with the wall (original)",
+     "file": "bounce-brawl/fighters/zippa/zippa-wall-cling-with-wall.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Zippa – wall-cling (jump; wall erased) pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/zippa/zippa-wall-cling.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Zippa – punch pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/zippa/zippa-punch.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Zippa – dash pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/zippa/zippa-dash.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Zippa – slam pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/zippa/zippa-slam.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Zippa – hurt pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/zippa/zippa-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Zippa – win pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/zippa/zippa-win.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Bonk – idle pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/bonk/bonk-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Bonk – run pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/bonk/bonk-run.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Bonk – jump pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/bonk/bonk-jump.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Bonk – punch pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/bonk/bonk-punch.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Bonk – dash pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/bonk/bonk-dash.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Bonk – slam pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/bonk/bonk-slam.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Bonk – hurt pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/bonk/bonk-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "Bonk – win pose (Bounce Brawl, facing right)",
+     "file": "bounce-brawl/fighters/bonk/bonk-win.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl game pose"
     }
    ]
   }
@@ -3940,6 +4241,11 @@
   "originals/pip-v2-chatgpt-sheet2.webp",
   "originals/pip-v2-chatgpt-sheet3.webp",
   "originals/pip-v2-chatgpt-sheet4.webp",
-  "originals/bounce-brawl-pip-pose-sheet-chatgpt.webp"
+  "originals/bounce-brawl-pip-pose-sheet-chatgpt.webp",
+  "originals/bounce-brawl-frostbite-pose-sheet-chatgpt.webp",
+  "originals/bounce-brawl-boulder-pose-sheet-chatgpt.webp",
+  "originals/bounce-brawl-gloop-pose-sheet-chatgpt.webp",
+  "originals/bounce-brawl-zippa-pose-sheet-chatgpt.webp",
+  "originals/bounce-brawl-bonk-pose-sheet-chatgpt.webp"
  ]
 }
