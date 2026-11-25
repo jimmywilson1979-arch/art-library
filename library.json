@@ -3883,56 +3883,56 @@
      "use": "Bounce Brawl game pose"
     },
     {
-     "name": "Frostbite – idle pose (Bounce Brawl, facing right)",
+     "name": "Frostbite – idle pose, glowing eyes (Bounce Brawl, facing right)",
      "file": "bounce-brawl/fighters/frostbite/frostbite-idle.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl game pose"
     },
     {
-     "name": "Frostbite – run pose (Bounce Brawl, facing right)",
+     "name": "Frostbite – run pose, glowing eyes (Bounce Brawl, facing right)",
      "file": "bounce-brawl/fighters/frostbite/frostbite-run.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl game pose"
     },
     {
-     "name": "Frostbite – jump pose (Bounce Brawl, facing right)",
+     "name": "Frostbite – jump pose, glowing eyes (Bounce Brawl, facing right)",
      "file": "bounce-brawl/fighters/frostbite/frostbite-jump.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl game pose"
     },
     {
-     "name": "Frostbite – punch pose (Bounce Brawl, facing right)",
+     "name": "Frostbite – punch pose, glowing eyes (Bounce Brawl, facing right)",
      "file": "bounce-brawl/fighters/frostbite/frostbite-punch.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl game pose"
     },
     {
-     "name": "Frostbite – dash pose (Bounce Brawl, facing right)",
+     "name": "Frostbite – dash pose, glowing eyes (Bounce Brawl, facing right)",
      "file": "bounce-brawl/fighters/frostbite/frostbite-dash.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl game pose"
     },
     {
-     "name": "Frostbite – slam pose (Bounce Brawl, facing right)",
+     "name": "Frostbite – slam pose, glowing eyes (Bounce Brawl, facing right)",
      "file": "bounce-brawl/fighters/frostbite/frostbite-slam.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl game pose"
     },
     {
-     "name": "Frostbite – hurt pose (Bounce Brawl, facing right)",
+     "name": "Frostbite – hurt pose, glowing eyes (Bounce Brawl, facing right)",
      "file": "bounce-brawl/fighters/frostbite/frostbite-hurt.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl game pose"
     },
     {
-     "name": "Frostbite – win pose (Bounce Brawl, facing right)",
+     "name": "Frostbite – win pose, glowing eyes (Bounce Brawl, facing right)",
      "file": "bounce-brawl/fighters/frostbite/frostbite-win.webp",
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
@@ -4295,6 +4295,7 @@
   "originals/bounce-brawl-gloop-pose-sheet-chatgpt.webp",
   "originals/bounce-brawl-zippa-pose-sheet-chatgpt.webp",
   "originals/bounce-brawl-bonk-pose-sheet-chatgpt.webp",
-  "originals/bounce-brawl-arenas-chatgpt.webp"
+  "originals/bounce-brawl-arenas-chatgpt.webp",
+  "originals/bounce-brawl-frostbite-pose-sheet-v2-glowing-eyes-chatgpt.webp"
  ]
 }
