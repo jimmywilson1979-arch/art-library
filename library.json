@@ -4260,6 +4260,222 @@
      "use": "Bounce Brawl arena platform"
     }
    ]
+  },
+  {
+   "title": "Bounce Brawl bosses – the Pip bosses redrawn (ChatGPT, Nov 2026)",
+   "folder": "bounce-brawl/bosses",
+   "items": [
+    {
+     "name": "King Gloop – idle (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/gloop-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "King Gloop – move (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/gloop-move.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "King Gloop – attack 1 (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/gloop-atk1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "King Gloop – attack 2 (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/gloop-atk2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "King Gloop – hurt (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/gloop-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "King Gloop – defeated (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/gloop-down.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Captain Clank – idle (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/crab-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Captain Clank – move (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/crab-move.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Captain Clank – attack 1 (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/crab-atk1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Captain Clank – attack 2 (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/crab-atk2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Captain Clank – hurt (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/crab-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Captain Clank – defeated (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/crab-down.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Yeti-Bot – idle (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/yeti-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Yeti-Bot – move (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/yeti-move.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Yeti-Bot – attack 1 (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/yeti-atk1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Yeti-Bot – attack 2 (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/yeti-atk2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Yeti-Bot – hurt (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/yeti-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Yeti-Bot – defeated (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/yeti-down.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Scrap King – idle (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/king-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Scrap King – move (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/king-move.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Scrap King – attack 1 (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/king-atk1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Scrap King – attack 2 (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/king-atk2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Scrap King – hurt (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/king-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Scrap King – defeated (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/king-down.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Queen Buzz – idle (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/queen-idle.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Queen Buzz – move (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/queen-move.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Queen Buzz – attack 1 (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/queen-atk1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Queen Buzz – attack 2 (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/queen-atk2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Queen Buzz – hurt (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/queen-hurt.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    },
+    {
+     "name": "Queen Buzz – defeated (Bounce Brawl boss, facing right)",
+     "file": "bounce-brawl/bosses/queen-down.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss"
+    }
+   ]
   }
  ],
  "originals": [
@@ -4324,6 +4540,11 @@
   "originals/bounce-brawl-zippa-pose-sheet-chatgpt.webp",
   "originals/bounce-brawl-bonk-pose-sheet-chatgpt.webp",
   "originals/bounce-brawl-arenas-chatgpt.webp",
-  "originals/bounce-brawl-frostbite-pose-sheet-v2-glowing-eyes-chatgpt.webp"
+  "originals/bounce-brawl-frostbite-pose-sheet-v2-glowing-eyes-chatgpt.webp",
+  "originals/bounce-brawl-boss-gloop-chatgpt.webp",
+  "originals/bounce-brawl-boss-crab-chatgpt.webp",
+  "originals/bounce-brawl-boss-yeti-chatgpt.webp",
+  "originals/bounce-brawl-boss-king-chatgpt.webp",
+  "originals/bounce-brawl-boss-queen-chatgpt.webp"
  ]
 }
