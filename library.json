@@ -4894,6 +4894,48 @@
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl boss walk"
+    },
+    {
+     "name": "Queen Buzz – hover / wing flap frame 1 of 6",
+     "file": "bounce-brawl/bosses/queen-walk-1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss hover"
+    },
+    {
+     "name": "Queen Buzz – hover / wing flap frame 2 of 6",
+     "file": "bounce-brawl/bosses/queen-walk-2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss hover"
+    },
+    {
+     "name": "Queen Buzz – hover / wing flap frame 3 of 6",
+     "file": "bounce-brawl/bosses/queen-walk-3.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss hover"
+    },
+    {
+     "name": "Queen Buzz – hover / wing flap frame 4 of 6",
+     "file": "bounce-brawl/bosses/queen-walk-4.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss hover"
+    },
+    {
+     "name": "Queen Buzz – hover / wing flap frame 5 of 6",
+     "file": "bounce-brawl/bosses/queen-walk-5.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss hover"
+    },
+    {
+     "name": "Queen Buzz – hover / wing flap frame 6 of 6",
+     "file": "bounce-brawl/bosses/queen-walk-6.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss hover"
     }
    ]
   }
@@ -4978,6 +5020,7 @@
   "originals/bounce-brawl-boss-crab-walk-cycle-chatgpt.webp",
   "originals/bounce-brawl-boss-yeti-walk-cycle-chatgpt.webp",
   "originals/bounce-brawl-boss-king-walk-cycle-chatgpt.webp",
-  "originals/bounce-brawl-boss-queen-walk-cycle-chatgpt.webp"
+  "originals/bounce-brawl-boss-queen-walk-cycle-chatgpt.webp",
+  "originals/bounce-brawl-boss-queen-hover-v2-chatgpt.webp"
  ]
 }
