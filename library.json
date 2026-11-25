@@ -4938,6 +4938,159 @@
      "use": "Bounce Brawl boss hover"
     }
    ]
+  },
+  {
+   "title": "Boom Arena – tiles, bombs, blasts and power-ups (ChatGPT, Nov 2026)",
+   "folder": "boom-arena",
+   "items": [
+    {
+     "name": "Sky Island – floor tile",
+     "file": "boom-arena/sky-floor.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Sky Island – solid block",
+     "file": "boom-arena/sky-solid.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Sky Island – breakable crate",
+     "file": "boom-arena/sky-crate.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Frozen Dojo – floor tile",
+     "file": "boom-arena/ice-floor.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Frozen Dojo – solid block",
+     "file": "boom-arena/ice-solid.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Frozen Dojo – breakable crate",
+     "file": "boom-arena/ice-crate.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Lava Quarry – floor tile",
+     "file": "boom-arena/lava-floor.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Lava Quarry – solid block",
+     "file": "boom-arena/lava-solid.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Lava Quarry – breakable crate",
+     "file": "boom-arena/lava-crate.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Sky Island – flat grass floor (made from the grass tile, repeats seamlessly)",
+     "file": "boom-arena/sky-floor-flat.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Power-up – Extra bomb",
+     "file": "boom-arena/powerup-bomb.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Power-up – Bigger blast",
+     "file": "boom-arena/powerup-fire.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Power-up – Speed boots",
+     "file": "boom-arena/powerup-speed.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Power-up – Bomb kick",
+     "file": "boom-arena/powerup-kick.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Power-up – Shield",
+     "file": "boom-arena/powerup-shield.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Skull bomb – frame 1 of 3",
+     "file": "boom-arena/bomb-1.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Skull bomb – frame 2 of 3",
+     "file": "boom-arena/bomb-2.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Skull bomb – frame 3 of 3",
+     "file": "boom-arena/bomb-3.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Explosion – center piece",
+     "file": "boom-arena/blast-center.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Explosion – mid piece",
+     "file": "boom-arena/blast-mid.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    },
+    {
+     "name": "Explosion – end piece",
+     "file": "boom-arena/blast-end.webp",
+     "tool": "ChatGPT (Plus)",
+     "made": "2026-11-25",
+     "use": "Boom Arena"
+    }
+   ]
   }
  ],
  "originals": [
@@ -5021,6 +5174,12 @@
   "originals/bounce-brawl-boss-yeti-walk-cycle-chatgpt.webp",
   "originals/bounce-brawl-boss-king-walk-cycle-chatgpt.webp",
   "originals/bounce-brawl-boss-queen-walk-cycle-chatgpt.webp",
-  "originals/bounce-brawl-boss-queen-hover-v2-chatgpt.webp"
+  "originals/bounce-brawl-boss-queen-hover-v2-chatgpt.webp",
+  "originals/boom-arena-lava-tiles-chatgpt.webp",
+  "originals/boom-arena-powerups-chatgpt.webp",
+  "originals/boom-arena-sky-tiles-chatgpt.webp",
+  "originals/boom-arena-bombs-chatgpt.webp",
+  "originals/boom-arena-explosion-chatgpt.webp",
+  "originals/boom-arena-ice-tiles-chatgpt.webp"
  ]
 }
