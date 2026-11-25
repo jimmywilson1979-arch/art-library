@@ -4182,6 +4182,13 @@
      "tool": "ChatGPT (Plus)",
      "made": "2026-11-25",
      "use": "Bounce Brawl game pose"
+    },
+    {
+     "name": "King Gloop – reference (Gloop with a gold crown; stand-in until ChatGPT draws the boss)",
+     "file": "bounce-brawl/fighters/king-gloop-reference.webp",
+     "tool": "Claude (from ChatGPT Gloop)",
+     "made": "2026-11-25",
+     "use": "Bounce Brawl boss reference"
     }
    ]
   },
